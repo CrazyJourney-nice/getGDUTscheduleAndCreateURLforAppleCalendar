@@ -47,11 +47,16 @@ def get_authenticated_session():
     username = os.environ.get("GDUT_USERNAME")
     password = os.environ.get("GDUT_PASSWORD")
     
-    if not username or not password:
-        print("[-] Error: GDUT_USERNAME or GDUT_PASSWORD environment variables are missing.")
+    missing = []
+    if not username: missing.append("GDUT_USERNAME")
+    if not password: missing.append("GDUT_PASSWORD")
+    
+    if missing:
+        print(f"[-] Error: The following environment variables are missing: {', '.join(missing)}")
+        print("[!] Please check your GitHub Repository Secrets (NOT Variables).")
         sys.exit(1)
 
-    print(f"[*] Attempting auto-login for user: {username}")
+    print(f"[*] Attempting auto-login for user: {username[:4]}****")
     session = auto_login(username, password)
     if not session:
         print("[-] Error: Login failed.")
