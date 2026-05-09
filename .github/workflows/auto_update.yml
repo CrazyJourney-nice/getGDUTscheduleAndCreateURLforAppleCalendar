@@ -2,9 +2,8 @@ name: Auto Update Class Schedule
 
 on:
   schedule:
-    # 每天凌晨 22:00 (UTC 时间)，即北京时间早上 6:00 自动运行
     - cron: '0 22 * * *'
-  workflow_dispatch: # 允许你手动点击按钮触发运行
+  workflow_dispatch: 
 
 jobs:
   build_and_deploy:
@@ -24,9 +23,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests ics pycryptodome rich
 
+      - name: Debug Environment Variables
+        env:
+          U_CHECK: ${{ secrets.GDUT_USERNAME }}
+          P_CHECK: ${{ secrets.GDUT_PASSWORD }}
+        run: |
+          if [ -z "$U_CHECK" ]; then echo "!!! GDUT_USERNAME is MISSING in Secrets !!!"; else echo "GDUT_USERNAME is set."; fi
+          if [ -z "$P_CHECK" ]; then echo "!!! GDUT_PASSWORD is MISSING in Secrets !!!"; else echo "GDUT_PASSWORD is set."; fi
+
       - name: Run Fetcher Script
         env:
-          # 从 GitHub Secrets 中读取你的学号和密码
           GDUT_USERNAME: ${{ secrets.GDUT_USERNAME }}
           GDUT_PASSWORD: ${{ secrets.GDUT_PASSWORD }}
         run: python get_your_scheduleAppleCalendarURL.py
@@ -36,6 +42,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
-          publish_branch: gh-pages # 将文件发布到这个分支
-          keep_files: true # 保持其他文件
+          publish_branch: gh-pages
+          keep_files: true
           destination_dir: .
