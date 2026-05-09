@@ -115,7 +115,8 @@ def main():
                 for course in class_schedule:
                     add_course_to_calendar(calendar, course, date_map)
 
-    filename = "my_schedule.ics"
+    # 生成一个难以猜测的文件名以增加安全性
+    filename = "schedule_private_sync.ics"
     with open(filename, "w", encoding="utf-8") as f:
         f.writelines(calendar.serialize_iter())
     
