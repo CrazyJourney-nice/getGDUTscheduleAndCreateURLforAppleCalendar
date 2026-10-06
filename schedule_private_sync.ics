@@ -2,260 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261020T100500Z
+LOCATION:教1-314
+DTSTART:20261020T083000Z
+SUMMARY:机器学习
+UID:3fba1090-ce93-4398-bc34-282f6723542c@3fba.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Teacher: 乔杰\nRemarks: 实验一 Linux系统安装与简单配置（以Ubuntu为例）\n实验二 常用命令
 DTEND:20261008T125500Z
 LOCATION:工1-415
 DTSTART:20261008T092000Z
 SUMMARY:Linux技术
-UID:d3ed088e-afcf-4675-89ff-912045a82a87@d3ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261110T100500Z
-LOCATION:教1-314
-DTSTART:20261110T083000Z
-SUMMARY:机器学习
-UID:9b7ed759-6f35-4c20-9863-1fb227ce2cbf@9b7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张煜帆\nRemarks: 课程主要内容、学习方式、考核形式、注意事项讲解，在线网络课程系统使用方法介绍。[思政]工程师职业道德内涵介绍。在线网络课程学习网站：http://www.zhihuishu.com，点击新用户注册，设置登录密码，完善学校和学号信息之后即可进入学习系统。之前已经在该平台修过课程的，用已有学号和密码登录。
-DTEND:20260907T063500Z
-LOCATION:教3-103
-DTSTART:20260907T055000Z
-SUMMARY:工程伦理
-UID:7fc5fa22-24b3-4580-ba40-b834289a1afb@7fc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261124T100500Z
-LOCATION:教1-314
-DTSTART:20261124T083000Z
-SUMMARY:机器学习
-UID:33f8d8fc-b512-477c-98ba-f1e3917eed0f@33f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习处理器架构及案例介绍，华为昇腾AI芯片全栈平台
-DTEND:20261127T081500Z
-LOCATION:教1-403
-DTSTART:20261127T064000Z
-SUMMARY:智能芯片原理与应用
-UID:91b9e19d-91b1-48a1-bf8f-d9be8e24b344@91b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第七章 数据库设计7.1数据库设计概述 7.2需求分析
-DTEND:20261102T081500Z
-LOCATION:教4-305
-DTSTART:20261102T064000Z
-SUMMARY:数据库系统
-UID:f2fc1af0-d21f-41a2-a97e-7829fad46f49@f2fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第八章科学发展观 第二节	科学发展观的主要内容 一.加快转变经济发展方式 二.发展社会主义民主政治 三、推进社会主义文化强国建设 四、构建社会主义和谐社会 五.推进生态文明建设 六、全而提髙党的建设科学化水平 第三节	科学发展观的历史地位 一、中国特色社会主义理论体系在新世纪新阶段的接续发展 二、全面建设小康社会、加快推进社会主义现代化的根本指针
-DTEND:20261214T100500Z
-LOCATION:教3-109
-DTSTART:20261214T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:f767bcde-61f3-44a7-b16c-fd33be3b22f7@f767.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章关系数据理论6.2规范化6.2.4 2NF 6.2.5 3NF 6.2.6 BCNF 6.2.7多值依赖  6.2.8  4NF 6.2.9规范化小结
-DTEND:20261014T040000Z
-LOCATION:教5-102
-DTSTART:20261014T022500Z
-SUMMARY:数据库系统
-UID:e620fb39-d883-4c44-89a1-689e82e0088c@e620.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 机器学习与神经网络基础
-DTEND:20260911T081500Z
-LOCATION:教1-403
-DTSTART:20260911T064000Z
-SUMMARY:智能芯片原理与应用
-UID:90b2c370-767b-444c-b749-a223884bf85f@90b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第三章  社会主义改造理论第二节 社会主义改造道路和历史经验  一、适合中国特点的社会主义改造道路 二、社会主义改造的历史经验 第三节 社会主义制度在中国的确立一、社会主义基本制度的确立及其理论根据 二、确立社会主义基本制度的重大意义
-DTEND:20261012T100500Z
-LOCATION:教3-109
-DTSTART:20261012T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:4347be44-9f0c-4570-9759-d32bc6198170@4347.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 专用硬件架构 基于GPU/FPGA/ASIC等架构的智能计算专用平台
-DTEND:20261016T081500Z
-LOCATION:教1-403
-DTSTART:20261016T064000Z
-SUMMARY:智能芯片原理与应用
-UID:a361bc95-378f-4b80-8cd1-56b4551787b0@a361.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 讲中点画圆/椭圆，再进入多边形：扫描线填充、边表与活性边表。强调&ldquo\;按扫描线推进、维护交点&rdquo\;这条主线，为后面区域填充打底。
-DTEND:20261013T081500Z
-LOCATION:教1-316
-DTSTART:20261013T064000Z
-SUMMARY:计算机图形学
-UID:95d39737-f243-48e0-884a-7b01515cf84f@95d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第12章 Flink
-DTEND:20261117T040000Z
-LOCATION:教4-310
-DTSTART:20261117T022500Z
-SUMMARY:大数据技术基础
-UID:2efe1953-41fe-41c0-90ff-088337a1cbff@2efe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 2. Linux常用命令
-DTEND:20260909T020500Z
-LOCATION:教2-515
-DTSTART:20260909T003000Z
-SUMMARY:Linux技术
-UID:efe85a03-c03e-4c2e-a10a-e75a861f43fa@efe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 3. 文本编辑
-DTEND:20260916T020500Z
-LOCATION:教2-515
-DTSTART:20260916T003000Z
-SUMMARY:Linux技术
-UID:194e1931-550a-4a12-9cbe-7c513a822f29@194e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 考试
-DTEND:20261228T100500Z
-LOCATION:教3-109
-DTSTART:20261228T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:509ea879-ff37-47b7-982f-afdf8e40e09f@509e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第二章 以中国式现代化全面推进中华民族伟大复兴 第一节 中华民族近代以来最伟大的梦想 一、实现中华民族伟大复兴的中国梦 二、在中华大地上全面建成小康社会 三、全面建成社会主义现代化强国 第二节 中国式现代化是强国建设、民族复兴的唯一正确道路 一、中国式现代化是中国共产党领导人民长期探索和实践的重大成果 二、中国式现代化的中国特色 三、中国式现代化的本质要求 四、中国式现代化创造了人类文明新形态 第三节 推进中国式现代化行稳致远 一、推进中国式现代化需要牢牢把握的重大原则 二、推进中国式现代化需要正确处理的重大关系 三、推进中国式现代化必须坚持团结奋斗 学习并理解如下问题：（1）为什么说实现中华民族伟大复兴进入了不可逆转的历史进程（2）如何擘画全面建成社会主义现代化强国的宏伟蓝图（3）中国式现代化是一种什么样的现代化
-DTEND:20260918T040000Z
-LOCATION:教1-306
-DTSTART:20260918T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:f3bd22df-f4c9-43fe-9b5f-2ff3f5d8b107@f3bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第七章 社会主义现代化建设的教育、科技、人才战略 第一节 全面建设社会主义现代化国家的基础性、战略性支撑 一、坚持教育发展、科技创新、人才培养一体推进 二、深入实施科教兴国战略、人才强国战略、创新驱动 发展战略 三、坚持教育优先发展、科技自立自强、人才引领驱动 第二节 加快建设教育强国 一、教育是民族振兴、社会进步的基石 二、落实立德树人根本任务 三、办好人民满意的教育 学习并理解如下问题：（1）为什么要坚持教育、科技、人才一体推进（2）怎样加快建设教育强国   第三节 加快建设科技强国 一、科技强则国家强 二、打赢关键核心技术攻坚战 三、增强自主创新能力 第四节 加快建设人才强国 一、培养入才是国家和民族长远发展大计 二、培养造就大批德才兼备的高素质人才 三、把各方面优秀人才集聚到党和国家事业中来 学习并理解如下问题：（1）怎样加快建设科技强国（2）如何深入实施新时代人才强国战略  
-DTEND:20261023T040000Z
-LOCATION:教1-306
-DTSTART:20261023T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:2a304692-7478-4e43-8814-97243d158946@2a30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261103T100500Z
-LOCATION:教1-314
-DTSTART:20261103T083000Z
-SUMMARY:机器学习
-UID:c7085705-fe26-498f-b70b-3a7f952caa79@c708.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 数据重定向\,全局相关\,超标量处理机与超流水线处理机
-DTEND:20261029T081500Z
-LOCATION:教3-307
-DTSTART:20261029T064000Z
-SUMMARY:计算机系统结构
-UID:9e5a8b51-4197-4a05-9397-8879695b57d4@9e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第5章 NoSQL数据库
-DTEND:20260929T040000Z
-LOCATION:教4-310
-DTSTART:20260929T022500Z
-SUMMARY:大数据技术基础
-UID:88522e48-8ea5-462b-b962-02cc1c6fa750@8852.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第7章 实现 7.1编码    7.2 软件测试基础   7.3 单元测试
-DTEND:20261008T040000Z
-LOCATION:教4-307
-DTSTART:20261008T022500Z
-SUMMARY:软件工程
-UID:26b5b5be-2483-4817-9a1c-bbbc8a9b903d@26b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 10.4  建立动态模型 10.5 建立功能模型 10.6 定义服务
-DTEND:20261126T040000Z
-LOCATION:教4-307
-DTSTART:20261126T022500Z
-SUMMARY:软件工程
-UID:32bebf4a-07b5-40ad-830b-9c88cc7296fd@32be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 11. Linux编程环境-下
-DTEND:20261111T020500Z
-LOCATION:教2-515
-DTSTART:20261111T003000Z
-SUMMARY:Linux技术
-UID:fa427f1e-799d-4b4a-99ee-d19f839d8d34@fa42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第三章	 社会主义改造理论  第一节  从新民主主义到社会主义的转变  一、新民主主义社会是一个过渡性的社会 二、党在过渡时期的总路线及其依据
-DTEND:20261005T100500Z
-LOCATION:教3-109
-DTSTART:20261005T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:7cbc123d-c8d9-42ec-b628-2d697283b91b@7cbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 周健凯\nRemarks: 专题四：繁荣互联网条件下新大众文艺
-DTEND:20260902T100500Z
-LOCATION:教3-102
-DTSTART:20260902T083000Z
-SUMMARY:形势与政策
-UID:557b43ce-034b-4161-a2a1-6514c2be7271@557b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 固定管线的基本框架：窗口与上下文、显示回调、缓冲与刷新、图元与颜色。课上带学生跑通第一个程序（清屏、画多边形、简单动画），后续实验都在这个框架上加。
-DTEND:20260922T081500Z
-LOCATION:教1-316
-DTSTART:20260922T064000Z
-SUMMARY:计算机图形学
-UID:89265646-5838-46d0-8e99-f7f38249716b@8926.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第九章 全面依法治国 第一节 坚持中国特色社会主义法治道路 一、全面依法治国是国家治理的一场深刻革命 二、全面依法治国的唯一正确道路 三、统筹处理全面依法治国的重大关系 第二节 建设中国特色社会主义法治体系 一、全面推进依法治国的总抓手 二、坚持依宪治国、依宪执政 三、更好推进中国特色社会主义法治体系建设 第三节 加快建设法治中国 一、法治中国建设的总体目标 二、法治中国建设的工作布局 三、建设更高水平的法治中国 学习并理解如下问题：（1）为什么要全面推进依法治国（2）为什么要走中国特色社会主义法治道路（3）全面依法治国的总目标（4）如何加快建设法治中国
-DTEND:20261106T040000Z
-LOCATION:教1-306
-DTSTART:20261106T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:7f1542d5-7d38-47b5-a4d9-4f458a6c6d47@7f15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 动态互连网络
-DTEND:20261119T081500Z
-LOCATION:教3-307
-DTSTART:20261119T064000Z
-SUMMARY:计算机系统结构
-UID:4b3f21de-308e-4dbe-b4af-e323bf6310c7@4b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 概论 信息安全目标
-DTEND:20260831T020500Z
-LOCATION:教2-224
-DTSTART:20260831T003000Z
-SUMMARY:信息安全概论
-UID:f96e6e68-12dc-4665-927b-4400bb835d3b@f96e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261215T100500Z
-LOCATION:教1-314
-DTSTART:20261215T083000Z
-SUMMARY:机器学习
-UID:70efeb7a-7445-404b-84e0-7ce6a3b146ce@70ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第3章 分布式文件系统 HDFS
-DTEND:20260915T040000Z
-LOCATION:教4-310
-DTSTART:20260915T022500Z
-SUMMARY:大数据技术基础
-UID:1709f5cd-ec27-4fc7-b441-9ffa065e6794@1709.org
+UID:0b16fd60-1ea8-4a17-93d1-1b133eb7000f@0b16.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 高挪英\nRemarks: 第三章 坚持党的全面领导 第一节 中国共产党领导是中国特色社会主义最本质的特征 一、中国最大的国情就是中国共产党的领导 二、中国共产党领导是中国特色社会主义制度的最大优势 三、加强党的全而领导为新时代党和国家事业发展提供了坚强保证 第二节 坚持党对一切工作的领导 一、中国共产党是最高政治领导力量 二、党的领导是全面的、系统的、整体的 三、维护党中央权威和集中统一领导 第三节 健全和完善党的领导制度体系 一、党的领导制度是我国的根本领导制度 二、健全党中央对重大工作的领导体制 三、健全党的全面领导制度 学习并理解如下问题：（1）为什么要坚持党的领导（2）怎样理解党的领导是全面的、系统的、整体的（3）怎样才能做到自觉在思想上政治上行动上同党中央保持高度一致
@@ -263,1284 +23,7 @@ DTEND:20260925T040000Z
 LOCATION:教1-306
 DTSTART:20260925T022500Z
 SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:9c39408a-f269-4e29-9079-20e5dadb9ce3@9c39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20260915T100500Z
-LOCATION:教1-314
-DTSTART:20260915T083000Z
-SUMMARY:机器学习
-UID:73a0ebb8-49d7-4b1e-9501-cc35ff243859@73a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks:  公钥密码体制ELGAMAL ， 公钥密码体制ECC
-DTEND:20261012T020500Z
-LOCATION:教2-224
-DTSTART:20261012T003000Z
-SUMMARY:信息安全概论
-UID:179ac34d-5dd2-437f-a519-bb8a92294cfa@179a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 系统设计实例	了解平衡车的开发设计案例，了解无人机的开发设计案例。
-DTEND:20261006T020500Z
-LOCATION:教2-512
-DTSTART:20261006T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:6482aec5-c433-4d82-96d8-965c07b504b1@6482.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第6章 6.4 面向数据结构的设计方法 6.5 程序复杂度的定量度量
-DTEND:20261001T040000Z
-LOCATION:教4-307
-DTSTART:20261001T022500Z
-SUMMARY:软件工程
-UID:f9c14c81-eb74-4eba-977e-73c16b857075@f9c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十四章 建设巩固国防和强大人民军队 第一节 强国必须强军，军强才能国安 一、国防和军队建设是捍卫国家主权、安全、发展利益的坚强后盾 二、新时代人民军队使命任务 第二节 实现党在新时代的强军目标 一、建设强大军队是接续奋斗的伟大事业 二、强军目标的科学内涵 三、全面推进国防和军队现代化的战略安排 第三节 加快推进国防和军队现代化 一、坚持党对人民军队的绝对领导 二、坚持政治建军、改革强军、科技强军、人才强军、依法治军 三、全面加强练兵备战 四、巩固提高一体化国家战略体系和能力 学习并理解如下问题：（1）为什么要建设巩固国防和强大人民军队（2）怎样建设巩固国防和强大人民军队（3）人民军队怎样捍卫国家主权、安全、发展利益
-DTEND:20261216T100500Z
-LOCATION:教1-306
-DTSTART:20261216T083000Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:b9b7473b-9a33-4d41-8995-09fb4b44e504@b9b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 实验三 vi编辑器 实验四 shell编程
-DTEND:20261015T125500Z
-LOCATION:工1-415
-DTSTART:20261015T092000Z
-SUMMARY:Linux技术
-UID:407713cb-1a62-4b78-b9c1-7b686c5081d9@4077.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 方媛\nRemarks: 课程主要内容、学习方式、考核形式、注意事项讲解，在线网络课程系统使用方法介绍。[思政]工程师职业素养、职业道德和社会责任介绍。在线网络课程学习网站：http://gdut.benke.chaoxing.com，点击新用户注册，设置登录密码，完善学校和学号信息之后即可进入学习系统。之前已经在该平台修过课程的，用已有学号和密码登录。
-DTEND:20260904T063500Z
-LOCATION:教3-101
-DTSTART:20260904T055000Z
-SUMMARY:工程管理
-UID:539d0879-81bd-4c9b-b3ea-4cf1133c986e@539d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 先讲为什么远处物体不能挡住近处，再分物体空间与图像空间两类方法。重点讲 Z-buffer，比较画家算法、BSP 的适用场景，并联系 OpenGL 深度测试。
-DTEND:20261124T081500Z
-LOCATION:教1-316
-DTSTART:20261124T064000Z
-SUMMARY:计算机图形学
-UID:beb5a0b3-3c83-4435-bd2b-999a47e3264b@beb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 环境光、Lambert 漫反射、Phong 镜面反射，以及常量着色、Gouraud、Phong 着色的差别（在顶点还是在像素上算光）
-DTEND:20261201T081500Z
-LOCATION:教1-316
-DTSTART:20261201T064000Z
-SUMMARY:计算机图形学
-UID:a2bb9fed-787c-467a-92b1-cdbcdd9a3e7f@a2bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第7章 7.4 集成测试 7.5 确认测试 7.6 白盒测试技术
-DTEND:20261015T040000Z
-LOCATION:教4-307
-DTSTART:20261015T022500Z
-SUMMARY:软件工程
-UID:bc30892b-94f4-4245-830b-48bc738c2e16@bc30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 自主进行视频学习及小组话题讨论安排
-DTEND:20260916T125500Z
-DTSTART:20260916T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:9255d3d8-8a39-4921-9ff7-94962c89b659@9255.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 简介课程内容及考核方式，智慧树平台操作注意事项，分组及话题选择
-DTEND:20260902T125500Z
-LOCATION:教1-316
-DTSTART:20260902T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:62c19c2b-503f-41c6-81ee-83da54f9e34b@62c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第2章 　可行性研究 2.1 可行性研究的任务 2.2可行性研究的步骤 2.3 系统流程图 2.4 数据流图 2.5 数据字典 2.6 成本效益分析
-DTEND:20260907T040000Z
-LOCATION:教1-318
-DTSTART:20260907T022500Z
-SUMMARY:软件工程
-UID:3caa71f4-40db-4d5b-a74d-ba2633fb6abe@3caa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第五章 数据库的完整性（2），习题讲解
-DTEND:20261007T040000Z
-LOCATION:教5-102
-DTSTART:20261007T022500Z
-SUMMARY:数据库系统
-UID:65d2f401-3f12-4171-ad9b-a36b8eeb307f@65d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 课程总结与讨论，反转课堂
-DTEND:20261029T125500Z
-LOCATION:教1-435
-DTSTART:20261029T103000Z
-SUMMARY:英文电影赏析
-UID:3530c2c6-366f-4be5-bd44-ea3458c4bba7@3530.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十章 建设社会主义文化强国 第一节 文化是民族生存和发展的重要力量 一、文化繁荣兴盛是实现中华民族伟大复兴的必然要求 二、坚定中国特色社会主义文化自信 三、坚持中国特色社会主义文化发展道路 第二节 建设具有强大凝聚力和引领力的社会主义意识形态 一、坚持马克思主义在意识形态领域指导地位的根本制度 二、大力加强马克思主义理论建设 三、积极塑造主流舆论新格局 第三节 以社会主义核心价值观引领文化建设 一、广泛践行社会主义核心价值观 二、弘扬以伟大建党精神为源头的中国共产党人精神谱系 三、提高全社会文明程度 第四节 铸就社会主义文化新辉煌 一、传承发展中华优秀传统文化 二、繁荣发展文化事业和文化产业 三、不断提升国家文化软实力和中华文化影响力 学习并理解如下问题：（1）为什么建设中国特色社会主义文化（2）为什么要坚持马克思主义在意识形态领域指导地位的根本制度（3）为什么要用社会主义核心价值观凝心聚力（4）如何铸就社会主义文化新辉煌  
-DTEND:20261120T040000Z
-LOCATION:教1-306
-DTSTART:20261120T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:e1bccf7d-a361-4956-a66b-934870deced9@e1bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 总复习
-DTEND:20261231T040000Z
-LOCATION:教4-307
-DTSTART:20261231T022500Z
-SUMMARY:软件工程
-UID:56ce448a-4565-4b4c-829d-945c03670fb6@56ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 介绍课程配套教材、参考书、上机环境、学习方式、考核方式与教学计划，明确本次授课的目的与要求； 第一章  1.1 绪论（1）
-DTEND:20260831T081500Z
-LOCATION:教4-305
-DTSTART:20260831T064000Z
-SUMMARY:数据库系统
-UID:0d090152-cc1a-448b-a7d7-a2522e6356e3@0d09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 无线通信技术	讲述常用的无线短距离通讯技术原理与开发应用方法，包括蓝牙， wifi通信， Zigbee通信，红外通信等。
-DTEND:20260922T020500Z
-LOCATION:教2-512
-DTSTART:20260922T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:43f83ba0-607a-42c2-bfa5-e7315b9dc067@43f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 从&ldquo\;连续直线如何变成离散像素&rdquo\;引入光栅化，重点讲 DDA、中点画线和 Bresenham，比较误差控制与整数运算。可对照 OpenGL 画线，让学生知道 API 背后在算什么。
-DTEND:20261006T081500Z
-LOCATION:教1-316
-DTSTART:20261006T064000Z
-SUMMARY:计算机图形学
-UID:268f13c2-756c-4ee9-935d-f33b47577a69@268f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 嵌入式处理器技术	掌握SOC和SOPC系统概念，了解它们的发展现状和主要研究应用领域。理解嵌入式系统的处理器的架构特点。
-DTEND:20260901T020500Z
-LOCATION:教2-512
-DTSTART:20260901T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:f1eb567e-7729-4c78-83ef-99546c719807@f1eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习基础及高级计算机视觉任务
-DTEND:20260918T081500Z
-LOCATION:教1-403
-DTSTART:20260918T064000Z
-SUMMARY:智能芯片原理与应用
-UID:a4607ca0-6b2a-4cc4-9b94-f4b90d5d43ce@a460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 一《毛概》实践成果展示与研讨；二 考试复习
-DTEND:20261221T100500Z
-LOCATION:教3-109
-DTSTART:20261221T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:e981a28d-3ef5-40a7-8708-19262e5696a0@e981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 非线性流水线的调度技术\,局部相关
-DTEND:20261022T081500Z
-LOCATION:教3-307
-DTSTART:20261022T064000Z
-SUMMARY:计算机系统结构
-UID:1d66fbd3-550a-46ab-ab3c-40e1e0c5a4f4@1d66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第二章新 第三节  新民主主义革命的道路和基本经验一、新民主主义革命的道路 二、新民主主义革命的三大法宝 三、新民主主义革命理论的意义
-DTEND:20260928T100500Z
-LOCATION:教3-109
-DTSTART:20260928T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:e9420395-d770-4589-8927-ae5009b28397@e942.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20260922T100500Z
-LOCATION:教1-314
-DTSTART:20260922T083000Z
-SUMMARY:机器学习
-UID:b1f886de-ccbf-4407-b7f2-06f3bdfeb66e@b1f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的现代英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
-DTEND:20261008T125500Z
-LOCATION:教1-435
-DTSTART:20261008T103000Z
-SUMMARY:英文电影赏析
-UID:b8078904-fca8-49aa-ad16-66f3113c9747@b807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第6章　详细设计 6.1结构程序设计   6.2 人机界面设计 6.3 过程设计的工具
-DTEND:20260924T040000Z
-LOCATION:教4-307
-DTSTART:20260924T022500Z
-SUMMARY:软件工程
-UID:282b9b57-9687-43b4-9538-1f5ff884afb6@282b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第8章 Hadoop 再探讨
-DTEND:20261020T040000Z
-LOCATION:教4-310
-DTSTART:20261020T022500Z
-SUMMARY:大数据技术基础
-UID:8ff85119-9d02-4048-b7a0-bb3f4221e3fe@8ff8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 互连网络\,互连函数
-DTEND:20261112T081500Z
-LOCATION:教3-307
-DTSTART:20261112T064000Z
-SUMMARY:计算机系统结构
-UID:449d8b10-70a2-4730-a877-d2981b19a59b@449d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验五  数据库的设计与实施
-DTEND:20261114T091500Z
-LOCATION:工1-415
-DTSTART:20261114T055000Z
-SUMMARY:数据库系统实验
-UID:e4f5a282-40ca-4899-94a3-4083ac1697c3@e4f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第七章 &ldquo\;三个代表&rdquo\;重要思想第一节	&quot\;三个代表&rdquo\;重要思想的核心观点 一、始终代表中国先进生产力的发展要求 二、始终代表中国先进文化的前进方向 三、始终代表中国最广大人民的根本利益第二节&quot\;三个代表&rdquo\;重要思想的主要内容 一、发展是党执政兴国的第一要务 二、建立社会主义市场经济体制 三、全面建设小康社会 四、建设社会主义政治文明 五、实施&quot\;引进来&rdquo\;和&ldquo\;走出去&rdquo\;相结合的对外开放战略 六、推进党的建设新的伟大工程 第三节&ldquo\;三个代表&quot\;重要思想的历史地位 一、中国特色社会主义理论体系的丰富发展 二、加强和改进党的建设、推进中国特色社会主义事业的强大理论武器
-DTEND:20261130T100500Z
-LOCATION:教3-109
-DTSTART:20261130T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:7ed8b9d0-357a-4240-be63-869d3b760966@7ed8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 标量处理机\,先行控制技术
-DTEND:20261008T081500Z
-LOCATION:教3-307
-DTSTART:20261008T064000Z
-SUMMARY:计算机系统结构
-UID:d4188762-9b2c-449b-a8b6-510c896c782e@d418.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十二章 建设社会主义生态文明 第一节 坚持人与自然和谐共生 一、生态兴则文明兴 二、绿水青山就是金山银山 三、把生态文明建设摆在全局工作的突出位置 第二节 建设美丽中国 一、加快形成绿色生产方式和生活方式 二、坚持山水林田湖草沙一体化保护和系统治理 三、用最严格制度最严密法治保护生态环境 第三节 共谋全球生态文明建设之路 一、保护人类共同家园 二、共建清洁美丽世界 三、积极推动全球可持续发展 学习并理解如下问题：（1）新时代为什么突出强调生态文明建设（2）建设什么样的生态文明（3）怎样建设美丽中国（4）怎样共谋全球生态文明建设之路 
-DTEND:20261204T040000Z
-LOCATION:教1-306
-DTSTART:20261204T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:2488d618-03fb-489a-baa7-cdcb7fbf99b1@2488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 周健凯\nRemarks: 
-DTEND:20260909T100500Z
-LOCATION:教3-102
-DTSTART:20260909T083000Z
-SUMMARY:形势与政策
-UID:91a9ec40-05f1-4272-9492-5c5439ca1809@91a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 11.8 设计数据管理子系统 11.9 设计类中的服务 11.10 设计关联 11.11设计优化
-DTEND:20261210T040000Z
-LOCATION:教4-307
-DTSTART:20261210T022500Z
-SUMMARY:软件工程
-UID:83358074-4ff3-4fa9-941f-4d8b27cb8784@8335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验六  openGauss数据库管理系统
-DTEND:20261121T091500Z
-LOCATION:工1-415
-DTSTART:20261121T055000Z
-SUMMARY:数据库系统实验
-UID:513f244d-821f-44a2-86ec-558f8d0bff3b@513f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 智能计算系统前沿概述：人工智能和智能芯片的发展历史；深度学习系统；硬件层基本架构；软件栈基本架构；计算效率优化原理等
-DTEND:20260904T081500Z
-LOCATION:教1-403
-DTSTART:20260904T064000Z
-SUMMARY:智能芯片原理与应用
-UID:a1b44cf1-cba3-4df0-84b3-5c2b8cb33736@a1b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第二章 新民主主义革命理论 第一节 新民主主义革命理论形成的依据 一、近代中国国情和中国革命的时代特征 二、新民主主义革命理论的实践基础
-DTEND:20260914T100500Z
-LOCATION:教3-109
-DTSTART:20260914T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:30f26001-67ae-438c-bf86-3d946403ed16@30f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第7章 MapReduce
-DTEND:20261013T040000Z
-LOCATION:教4-310
-DTSTART:20261013T022500Z
-SUMMARY:大数据技术基础
-UID:e6ad69ea-cbd7-4cb4-b024-535c85068434@e6ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 考试
-DTEND:20261214T020500Z
-LOCATION:教2-224
-DTSTART:20261214T003000Z
-SUMMARY:信息安全概论
-UID:6296ae4e-3601-431c-a408-3814e71a9756@6296.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验一  数据库对象管理
-DTEND:20261017T091500Z
-LOCATION:工1-415
-DTSTART:20261017T055000Z
-SUMMARY:数据库系统实验
-UID:ae2ede7a-82ff-4494-9b8e-8c46c27134b5@ae2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第一章 毛泽东思想及其历史地位   第一节  毛泽东思想的形成与发展  第二节 毛泽东思想的主要内容和活的灵魂   第三节 毛泽东思想的历史地位  主要介绍毛泽东思想形成发展的历史条件 、毛泽东思想形成发展的过程，以及毛泽东思想的主要内容毛泽东思想活的灵魂 和历史地位。
-DTEND:20260907T100500Z
-LOCATION:教3-109
-DTSTART:20260907T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:88a31086-6b63-460f-acdd-8c880582a19a@88a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第1章 大数据概述
-DTEND:20260901T040000Z
-LOCATION:教4-310
-DTSTART:20260901T022500Z
-SUMMARY:大数据技术基础
-UID:0c0a395e-36ee-4d92-9ab5-803856cd4b40@0c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 密码协商算法， 公钥密码体制RSA
-DTEND:20261005T020500Z
-LOCATION:教2-224
-DTSTART:20261005T003000Z
-SUMMARY:信息安全概论
-UID:512a0664-e1b3-418c-ab91-297d623cdf57@512a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第8章 维护 8.1 软件维护的定义    8.2 软件维护的特点  8.3 软件维护过程 8.4 软件的可维护性 8.5 预防性维护
-DTEND:20261029T040000Z
-LOCATION:教4-307
-DTSTART:20261029T022500Z
-SUMMARY:软件工程
-UID:4e62770a-6258-416e-ac65-c23b6fbe0f74@4e62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第七章 数据库设计7.5数据库的物理设计7.6 数据库的实施和维护
-DTEND:20261116T081500Z
-LOCATION:教4-305
-DTSTART:20261116T064000Z
-SUMMARY:数据库系统
-UID:8cae181c-0951-4e6c-8df1-1a19ffa62b58@8cae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 课程总结及答疑
-DTEND:20261117T020500Z
-LOCATION:教2-512
-DTSTART:20261117T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:5e600073-efd9-4140-abed-2e88294c6804@5e60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 边界表示、CSG、体素和多边形网格各自适合什么，并回到整学期主线：表示 &rarr\; 变换 &rarr\; 光栅化 &rarr\; 真实感绘制。
-DTEND:20261225T020500Z
-LOCATION:教2-503
-DTSTART:20261225T003000Z
-SUMMARY:计算机图形学
-UID:b838a474-4da4-4032-965f-e7e7e657e55a@b838.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 数字签名
-DTEND:20261026T020500Z
-LOCATION:教2-224
-DTSTART:20261026T003000Z
-SUMMARY:信息安全概论
-UID:739d35a6-54b4-4e16-a173-d910760a8a57@739d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 实验五 常用开发工具\n实验六 常用开发工具二\n实验七 Linux环境编程
-DTEND:20261111T100500Z
-LOCATION:工1-415
-DTSTART:20261111T064000Z
-SUMMARY:Linux技术
-UID:c44e8917-ff86-41ba-b93d-b734bbffd331@c44e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.5数据更新
-DTEND:20260923T040000Z
-LOCATION:教5-102
-DTSTART:20260923T022500Z
-SUMMARY:数据库系统
-UID:cb606a8c-2fc5-454e-a4a9-54341a7d03bf@cb60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 身份认证，X509
-DTEND:20261102T020500Z
-LOCATION:教2-224
-DTSTART:20261102T003000Z
-SUMMARY:信息安全概论
-UID:defcf338-b34a-4dc2-8484-713a3b3781ba@defc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 寒武纪AI芯片平台
-DTEND:20261204T081500Z
-LOCATION:教1-403
-DTSTART:20261204T064000Z
-SUMMARY:智能芯片原理与应用
-UID:da488699-75a1-496b-98a4-322b1f2659c0@da48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: IPSec协议
-DTEND:20261116T020500Z
-LOCATION:教2-224
-DTSTART:20261116T003000Z
-SUMMARY:信息安全概论
-UID:6580d919-84cc-429b-a4fe-b7c69b62a67d@6580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20260901T100500Z
-LOCATION:教1-314
-DTSTART:20260901T083000Z
-SUMMARY:机器学习
-UID:6735a80f-91af-442f-ae6c-9862300327c3@6735.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261013T100500Z
-LOCATION:教1-314
-DTSTART:20261013T083000Z
-SUMMARY:机器学习
-UID:56745488-372f-4710-bb5c-5cd7786f616f@5674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 超流水线处理机\,超标量超流水线处理机
-DTEND:20261105T081500Z
-LOCATION:教3-307
-DTSTART:20261105T064000Z
-SUMMARY:计算机系统结构
-UID:48585c17-400a-4b3e-9296-17a1a5dcb570@4858.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: SIMD计算机
-DTEND:20261126T081500Z
-LOCATION:教3-307
-DTSTART:20261126T064000Z
-SUMMARY:计算机系统结构
-UID:ad84e3f7-34ef-4843-b935-31dea4b717b4@ad84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第五章 中国特色社会主义理论体系的形成发展 一 形成发展的社会历史条件 二 发展过程。第五章 中国特色社会主义理论体系的形成发展 一 形成发展的社会历史条件 二 发展过程。重点探讨中国特色社会主义理论体系的形成条件。
-DTEND:20261109T100500Z
-LOCATION:教3-109
-DTSTART:20261109T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:0ba0332f-b5e3-4537-80be-65bb9f0c79d9@0ba0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第11章 面向对象设计 11.1面向对象设计的准则 11.2 启发规则 11.3 软件重用 11.4 系统分解 11.5 设计问题域子系统 11.6 设计人机交互子系统 11.7 设计任务管理子系统
-DTEND:20261203T040000Z
-LOCATION:教4-307
-DTSTART:20261203T022500Z
-SUMMARY:软件工程
-UID:3a4c9f64-2a59-4aa2-a48e-b1342b0e37d9@3a4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第10章 面向对象分析 10.1 面向对象分析的基本过程 10.2 需求陈述 10.3 建立对象模型
-DTEND:20261119T040000Z
-LOCATION:教4-307
-DTSTART:20261119T022500Z
-SUMMARY:软件工程
-UID:279f2283-3510-48c0-bd6a-b26262f5b3f0@279f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第二章第二节 	新民主主义革命的总路线和基本纲领  一、新民主主义革命的总路线 二、新民主主义的基本纲领  
-DTEND:20260921T100500Z
-LOCATION:教3-109
-DTSTART:20260921T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:fe58a79c-3a47-4af5-b307-e7a5ad34851f@fe58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.1SQL概述3.2学生-课程数据库3.3数据定义3.4数据查询3.4.1单表查询
-DTEND:20260916T040000Z
-LOCATION:教5-102
-DTSTART:20260916T022500Z
-SUMMARY:数据库系统
-UID:3f20a6aa-3db3-4d70-8e3c-88bd4913a952@3f20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 窗口&mdash\;视区变换，以及直线裁剪（Cohen&ndash\;Sutherland、梁友栋&ndash\;Barsky）和多边形裁剪（Sutherland&ndash\;Hodgman）。让学生把&ldquo\;世界坐标 &rarr\; 窗口 &rarr\; 屏幕&rdquo\;这条二维显示链走通。
-DTEND:20261103T081500Z
-LOCATION:教1-316
-DTSTART:20261103T064000Z
-SUMMARY:计算机图形学
-UID:f2be015a-a790-4652-9692-2ed34ed6033c@f2be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验三  数据库的安全性和完整性
-DTEND:20261031T091500Z
-LOCATION:工1-415
-DTSTART:20261031T055000Z
-SUMMARY:数据库系统实验
-UID:d9a530d1-464d-45d7-92fc-162c710909c6@d9a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第5章 总体设计 5.1 设计过程 5.2 设计原理 5.3 启发式规
-DTEND:20260914T040000Z
-LOCATION:教1-318
-DTSTART:20260914T022500Z
-SUMMARY:软件工程
-UID:f34c27e9-2fc3-4122-83c2-729d9aa3be44@f34c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 讲清图形学是什么、和图像处理/计算机视觉的差别，以及发展脉络与主要应用（CAD、游戏影视、科学可视化、VR/元宇宙）。说明本课 16 次安排、考核构成和先修要求。
-DTEND:20260908T081500Z
-LOCATION:教1-316
-DTSTART:20260908T064000Z
-SUMMARY:计算机图形学
-UID:3ebf99b8-80eb-407a-b1f8-b8bdbeb7da2b@3ebf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章 补充内容、习题讲解
-DTEND:20261026T081500Z
-LOCATION:教4-305
-DTSTART:20261026T064000Z
-SUMMARY:数据库系统
-UID:bd7473b2-0349-42ec-917c-8930af508816@bd74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第六章邓小平理论 第一节 邓小平理论首要的基本的理论问题和精髓 第一节	邓小平理论首要的基本的理论问题和精髓 一、邓小平理论首要的基本的理论问题 二、邓小平理论的精髓第二节 邓小平理论的主要内容一、社会主义初级阶段理论和党的基本路线 二、社会主义根本任务和发展战略理论
-DTEND:20261116T100500Z
-LOCATION:教3-109
-DTSTART:20261116T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:f528015e-e514-4610-b903-14b4d58149f5@f528.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第一章 新时代坚持和发展中国特色社会主义 第一节 方向决定道路，道路决定命运 一、中国特色社会主义是历史和人民的选择  二、中国特色社会主义是社会主义而不是其他什么主义 三、坚定道路自信、理论自信、制度自信、文化自信 第二节 中国特色社会主义进入新时代 一、中国特色社会主义新时代是我国发展新的历史方位 二、社会主要矛盾变化是关系全局的历史性变化 三、新时代伟大变革及其里程碑意义 第三节 新时代坚持和发展中国特色社会主义要一以贯之 一、全面贯彻党的基本理论、基本路线、基本方略 二、统筹推进&ldquo\;五位一体&rdquo\;总体布局和协调推进&ldquo\;四个全面&rdquo\;战略布局 三、推动中国特色社会主义不断开拓前进 学习并理解如下问题：（1）中国特色社会主义如何一路走来（2）如何理解中国特色社会主义是社会主义而不是其他主义（3）为什么说中国特色社会主义进入了新时代（4）新时代坚持和发展中国特色社会主义如何一以贯之
-DTEND:20260911T040000Z
-LOCATION:教1-306
-DTSTART:20260911T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:b99c0bbe-fbec-4e03-bf09-68f466c13190@b99c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第5章 5.4图形工具 5.5 面向数据流的设计方法
-DTEND:20260917T040000Z
-LOCATION:教4-307
-DTSTART:20260917T022500Z
-SUMMARY:软件工程
-UID:b6f690c5-da6c-4723-a403-e55856f456fd@b6f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第6章 云数据库
-DTEND:20261006T040000Z
-LOCATION:教4-310
-DTSTART:20261006T022500Z
-SUMMARY:大数据技术基础
-UID:ea106460-e122-431e-8ced-e27625b3f594@ea10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第二章 2.5关系演算2.5.1元组关系演算语言ALPHA
-DTEND:20260914T081500Z
-LOCATION:教4-305
-DTSTART:20260914T064000Z
-SUMMARY:数据库系统
-UID:60403f6e-6d56-468e-96a8-60f8366d4831@6040.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 9. 常用开发工具-下
-DTEND:20261028T020500Z
-LOCATION:教2-515
-DTSTART:20261028T003000Z
-SUMMARY:Linux技术
-UID:fc682afd-a163-4d49-8c4d-f2c84766bde0@fc68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第一章 绪论（2）
-DTEND:20260902T040000Z
-LOCATION:教5-102
-DTSTART:20260902T022500Z
-SUMMARY:数据库系统
-UID:7cc0d4bd-f7f6-4862-a5eb-b9e3d78f4e22@7cc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第12章面向对象实现 12.1 面向对象语言的优点 12.2 程序设计风格 12.3 测试策略 12.4 设计测试用例
-DTEND:20261217T040000Z
-LOCATION:教4-307
-DTSTART:20261217T022500Z
-SUMMARY:软件工程
-UID:f4f91bbc-f673-428b-a974-0f19d5d4afe3@f4f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第四章 数据库的安全性（2）、第五章数据库的完整性（1）
-DTEND:20261005T081500Z
-LOCATION:教4-305
-DTSTART:20261005T064000Z
-SUMMARY:数据库系统
-UID:26b88c26-2135-4cf8-86c0-6f36df08260d@26b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第二章 2.4关系代数2.4.1传统的集合运算2.4.2专门的关系运算
-DTEND:20260909T040000Z
-LOCATION:教5-102
-DTSTART:20260909T022500Z
-SUMMARY:数据库系统
-UID:5bd9c24d-9195-45a0-8829-e76971c2a3d9@5bd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 基本的设计与工程化开发方法
-DTEND:20261030T081500Z
-LOCATION:教1-403
-DTSTART:20261030T064000Z
-SUMMARY:智能芯片原理与应用
-UID:8373beaa-fc6b-4704-8b06-ff1830a0f8ae@8373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 香橙派综合开发系统
-DTEND:20261110T020500Z
-LOCATION:教2-512
-DTSTART:20261110T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:7c657df8-b2db-4cfe-8909-3932a96faf07@7c65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第六章 推动高质量发展 第一节 完整、准确、全面贯彻新发展理念 一、我国进人新发展阶段 二、贯彻新发展理念是关系我国发展全局的一场深刻变革 三、以新发展理念引领高质量发展 第二节 坚持和完善社会主义基本经济制度 一、坚持和完善社会主义基本经济制度是实现高质量发展的 保障 二、坚持&ldquo\;两个毫不动摇&rdquo\; 三、坚持按劳分配为主体、多种分配方式并存 四、构建高水平社会主义市场经济体制 第三节 加快构建新发展格局 一、把握未来发展主动权的战略部署 二、以国内大循环为主体、国内国际双循环相互促进 三、大力推动构建新发展格局 第四节 建设现代化经济体系 一、建设现代化产业体系 二、全面推进乡村振兴 三、促进区域协调发展 学习并理解如下问题：（1）如何把握新发展阶段、贯彻新发展理念、构建新发展格局（2）如何坚持和完善社会主义基本经济制度（3）如何构建新发展格局（4）如何建设现代化经济体系 
-DTEND:20261016T040000Z
-LOCATION:教1-306
-DTSTART:20261016T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:79a66e4a-7dd2-4971-ab78-e3439d20ca92@79a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 8. 常用开发工具-上
-DTEND:20261021T020500Z
-LOCATION:教2-515
-DTSTART:20261021T003000Z
-SUMMARY:Linux技术
-UID:e0ab5976-3bb9-4ce9-a5bd-cf5f4675f740@e0ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴[主讲]\nRemarks: 开学第一课  介绍课程的基本内容和基本要求
-DTEND:20260923T081500Z
-LOCATION:教3-109
-DTSTART:20260923T064000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:61fb6587-87f1-421b-a9cf-513f36158524@61fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 架构特点与指令集；计算效率分析与优化途径；
-DTEND:20261023T081500Z
-LOCATION:教1-403
-DTSTART:20261023T064000Z
-SUMMARY:智能芯片原理与应用
-UID:65d5b21e-ee04-4707-a55e-bf98015ebb05@65d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第八章 科学发展观 第一节	科学发展观的科学内涵 一、推动经济社会发展是料学发展观的第一要义 二、以人为本是科学发展观的核心立场 三、全面协调可持续是料学发展现的基本要求 四、统筹兼顾是科学发展观的根本方法
-DTEND:20261207T100500Z
-LOCATION:教3-109
-DTSTART:20261207T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:950f8780-c408-42b3-8816-fe39b8d182aa@950f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 平行投影与透视投影、相机模型，以及完整三维显示链：建模变换 &rarr\; 观察变换 &rarr\; 投影 &rarr\; 裁剪 &rarr\; 视口。
-DTEND:20261117T081500Z
-LOCATION:教1-316
-DTSTART:20261117T064000Z
-SUMMARY:计算机图形学
-UID:7c1e4068-9921-47ed-9349-3759e08131f5@7c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第4章 分布式数据库 HBase
-DTEND:20260922T040000Z
-LOCATION:教4-310
-DTSTART:20260922T022500Z
-SUMMARY:大数据技术基础
-UID:f03a590f-95ec-4ec3-8bc4-ba1f2cf1b2e7@f03a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.4数据查询
-DTEND:20260921T081500Z
-LOCATION:教4-305
-DTSTART:20260921T064000Z
-SUMMARY:数据库系统
-UID:ac29bfb0-ca98-48d5-8dc4-73bc6ed90a7c@ac29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 纹理映射在做什么（用图像代替几何细节），阴影的基本生成思路，以及走样来源与反走样手段。
-DTEND:20261208T081500Z
-LOCATION:教1-316
-DTSTART:20261208T064000Z
-SUMMARY:计算机图形学
-UID:3be185be-7ffe-4e7e-b94f-5679524682cd@3be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第11章 流计算
-DTEND:20261110T040000Z
-LOCATION:教4-310
-DTSTART:20261110T022500Z
-SUMMARY:大数据技术基础
-UID:8a67fc8a-8ae4-4bcd-846b-0ddae778920e@8a67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 多处理机
-DTEND:20261203T081500Z
-LOCATION:教3-307
-DTSTART:20261203T064000Z
-SUMMARY:计算机系统结构
-UID:125a03e5-18d4-417c-86d5-c7155e75b0cc@125a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第13章 软件评价与管理 13.1 软件质量 13.2 软件质量度量模型 13.3软件工程管理 13.4 软件产权
-DTEND:20261224T040000Z
-LOCATION:教4-307
-DTSTART:20261224T022500Z
-SUMMARY:软件工程
-UID:06cfa73e-f1f1-466d-bd31-2231ac7f1634@06cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 4. Linux Shell编程设计-上
-DTEND:20260923T020500Z
-LOCATION:教2-515
-DTSTART:20260923T003000Z
-SUMMARY:Linux技术
-UID:bd88f89c-6816-4441-b97d-2c854a1e7710@bd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 7. Linux内核简介-下
-DTEND:20261014T020500Z
-LOCATION:教2-515
-DTSTART:20261014T003000Z
-SUMMARY:Linux技术
-UID:880f15e0-0028-4f37-9ea8-ccc3296749a7@880f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: IMU传感器的姿态检测
-DTEND:20261027T020500Z
-LOCATION:教2-512
-DTSTART:20261027T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:c97c78e7-5c8f-490f-a13c-fd5e97f1472d@c97c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 讨论课：谈谈你心目中的毛泽东
-DTEND:20261102T100500Z
-LOCATION:教3-109
-DTSTART:20261102T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:9a062564-314d-42d8-8e96-105409c7c732@9a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 把二维矩阵扩到三维，讲绕坐标轴和绕任意轴旋转，并分清物体、世界、观察（相机）坐标系。
-DTEND:20261110T081500Z
-LOCATION:教1-316
-DTSTART:20261110T064000Z
-SUMMARY:计算机图形学
-UID:308b673d-34fa-4d59-96e7-934370f5b7de@308b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 系统设计实例	了解平衡车的开发设计案例，了解无人机的开发设计案例。
-DTEND:20261013T020500Z
-LOCATION:教2-512
-DTSTART:20261013T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:ff92a578-bed9-4326-8efc-aaa191f4e0c2@ff92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十二章 并发控制（2）， 复习、答疑
-DTEND:20261221T081500Z
-LOCATION:教4-305
-DTSTART:20261221T064000Z
-SUMMARY:数据库系统
-UID:23adaacf-9ed0-475e-b237-21c71cbc5182@23ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 10. Linux编程环境-上
-DTEND:20261104T020500Z
-LOCATION:教2-515
-DTSTART:20261104T003000Z
-SUMMARY:Linux技术
-UID:3a16a7de-7560-4062-88d2-295b05db0bcf@3a16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 答疑
-DTEND:20261207T020500Z
-LOCATION:教2-224
-DTSTART:20261207T003000Z
-SUMMARY:信息安全概论
-UID:ccec9d33-6549-40c8-87db-050bde4c91ce@ccec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 密码学基础，古典密码
-DTEND:20260921T020500Z
-LOCATION:教2-224
-DTSTART:20260921T003000Z
-SUMMARY:信息安全概论
-UID:2972561d-1355-4103-974d-3336b33ef04c@2972.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十一章 以保障和改善民生为重点加强社会建设 第一节 让人民生活幸福是&ldquo\;国之大者&rdquo\; 一、民生是人民幸福之基 二、人民获得感幸福感安全感更加充实、更有保障、更可持续 三、坚持在发展中增进民生福祉 第二节 不断提高人民生活品质 一、完善分配制度 二、实施就业优先战略 三、健全社会保障体系 四、推进健康中国建设 第三节 在共建共治共享中推进社会治理现代化 一、加强和创新社会治理 二、完善社会治理体系 三、加强城乡社区治理 学习并理解如下问题：（1）为什么说&ldquo\;悠悠万事，民生为大&rdquo\;（2）提高人民生活品质着重从哪些方面入手（3）怎样推进社会治理现代化
-DTEND:20261127T040000Z
-LOCATION:教1-306
-DTSTART:20261127T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:3fb5712c-ae4d-43c7-85ef-830f4adcef81@3fb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 树莓派ARM计算平台；Google TPU 脉动阵列器
-DTEND:20261211T081500Z
-LOCATION:教1-403
-DTSTART:20261211T064000Z
-SUMMARY:智能芯片原理与应用
-UID:5c407c1c-b6ab-4d07-947b-978d73bf61eb@5c40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
-DTEND:20260930T125500Z
-LOCATION:教1-316
-DTSTART:20260930T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:2ad3d9c3-96ee-4961-aeb8-80b4506e7d4d@2ad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习处理器原理
-DTEND:20261106T081500Z
-LOCATION:教1-403
-DTSTART:20261106T064000Z
-SUMMARY:智能芯片原理与应用
-UID:af9f6e18-d8f9-4501-ab59-c3df8a7fd51b@af9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十二章 并发控制（1）
-DTEND:20261214T081500Z
-LOCATION:教4-305
-DTSTART:20261214T064000Z
-SUMMARY:数据库系统
-UID:85f213f4-0259-4e21-af14-f2dda0ca9669@85f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
-DTEND:20261007T125500Z
-LOCATION:教1-316
-DTSTART:20261007T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:f44321a6-2581-4edd-a8ac-e9be4b8d7aff@f443.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 2.课程设计报告写作
-DTEND:20270112T091500Z
-LOCATION:工1-415
-DTSTART:20270112T055000Z
-SUMMARY:数据库系统课程设计
-UID:dc5ca878-c588-486c-b8fc-09bf2465c311@dc5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261208T100500Z
-LOCATION:教1-314
-DTSTART:20261208T083000Z
-SUMMARY:机器学习
-UID:4f2bfd0c-168f-406f-ba80-dc7142e0f836@4f2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261020T100500Z
-LOCATION:教1-314
-DTSTART:20261020T083000Z
-SUMMARY:机器学习
-UID:7fae6f11-abdd-4bcc-99fd-e2c23876a714@7fae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 系统结构的评价标准\,计算机系统结构的发展
-DTEND:20260917T081500Z
-LOCATION:教3-307
-DTSTART:20260917T064000Z
-SUMMARY:计算机系统结构
-UID:f5fb7b9f-f11f-4c16-8b57-cd63001bd05a@f5fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第10章 Spark
-DTEND:20261103T040000Z
-LOCATION:教4-310
-DTSTART:20261103T022500Z
-SUMMARY:大数据技术基础
-UID:a951e178-0a91-4582-827e-d533d7e9a2bd@a951.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第四章 社会主义建设道路初步探索的理论成果第一节	初步探索的重要理论成果 一、调动一切积极因素为社会主义事业服务 二、正确认识和处理社会主义社会矛盾的思想 三，走中国工业化道路的思想 四、初步探索的其他理论成果第二节	初步探索的意义和经验教训 一、初步探索的意义 二、初步探索的经验教
-DTEND:20261026T100500Z
-LOCATION:教3-109
-DTSTART:20261026T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:930c7bc4-cf79-45b7-8588-305c9c5e1be1@930c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: SSL协议
-DTEND:20261109T020500Z
-LOCATION:教2-224
-DTSTART:20261109T003000Z
-SUMMARY:信息安全概论
-UID:9ff83b71-8b0b-4741-98fa-f7dd83f4857f@9ff8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
-DTEND:20261014T125500Z
-LOCATION:教1-316
-DTSTART:20261014T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:4b0aa4cb-79c9-4b82-a538-bba1a6ad7952@4b0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 光栅/矢量显示原理、GPU 在图形系统中的位置，以及从三维场景到屏幕像素的流水线（建模&mdash\;几何处理&mdash\;光栅化&mdash\;片元处理）。
-DTEND:20260915T081500Z
-LOCATION:教1-316
-DTSTART:20260915T064000Z
-SUMMARY:计算机图形学
-UID:6d2d44a2-4e37-4a52-8974-dfa629606979@6d2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 自主进行视频学习及小组话题讨论安排
-DTEND:20260909T125500Z
-DTSTART:20260909T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:608e813f-d63b-42f2-85e7-1c4b69b832e2@608e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261201T100500Z
-LOCATION:教1-314
-DTSTART:20261201T083000Z
-SUMMARY:机器学习
-UID:9fc91fd4-acdb-4a53-9328-fbb58fa79a05@9fc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 1. Linux技术绪论
-DTEND:20260902T020500Z
-LOCATION:教2-515
-DTSTART:20260902T003000Z
-SUMMARY:Linux技术
-UID:f5afd9a4-a24a-4363-a410-7161233a9975@f5af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
-DTEND:20260923T125500Z
-LOCATION:教1-316
-DTSTART:20260923T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:dbb71229-18c8-4c58-89df-83cccdcea9cc@dbb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验四  数据库辅助设计
-DTEND:20261107T091500Z
-LOCATION:工1-415
-DTSTART:20261107T055000Z
-SUMMARY:数据库系统实验
-UID:cea4a82c-2d61-4f20-8e92-d7083643f7b2@cea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章关系数据理论6.3数据依赖的公理系统6.4 模式的分解
-DTEND:20261019T081500Z
-LOCATION:教4-305
-DTSTART:20261019T064000Z
-SUMMARY:数据库系统
-UID:746ab87a-f774-470f-941a-626203fc7817@746a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第1章 软件工程学概述 1.1 软件危机  1.2 软件工程 1.3 软件生命周期1.4 软件过程 1.5 问题定义阶段
-DTEND:20260903T040000Z
-LOCATION:教4-307
-DTSTART:20260903T022500Z
-SUMMARY:软件工程
-UID:994b098d-dd34-41c6-8f18-d2b75e4febd3@994b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
-DTEND:20260910T125500Z
-LOCATION:教1-435
-DTSTART:20260910T103000Z
-SUMMARY:英文电影赏析
-UID:41a6eae1-9473-466f-b6e2-296ec1a98911@41a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20260908T100500Z
-LOCATION:教1-314
-DTSTART:20260908T083000Z
-SUMMARY:机器学习
-UID:27bfda1a-7cdd-419e-a6c4-0f8b0bc2878a@27bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 计算机系统结构的基本概念\,计算机系统设计技术
-DTEND:20260910T081500Z
-LOCATION:教3-307
-DTSTART:20260910T064000Z
-SUMMARY:计算机系统结构
-UID:b2429004-f222-45aa-be32-c2b6db447e5b@b242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十章 关系查询处理和查询优化（1）
-DTEND:20261123T081500Z
-LOCATION:教4-305
-DTSTART:20261123T064000Z
-SUMMARY:数据库系统
-UID:7cd22ee5-d90a-47c7-b225-cb888a33ac7c@7cd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的经典英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
-DTEND:20260917T125500Z
-LOCATION:教1-435
-DTSTART:20260917T103000Z
-SUMMARY:英文电影赏析
-UID:a29f5744-ee3d-40f9-8a6a-338557c6c8f8@a29f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 流水线处理机
-DTEND:20261015T081500Z
-LOCATION:教3-307
-DTSTART:20261015T064000Z
-SUMMARY:计算机系统结构
-UID:f608fcd4-bc34-4564-ab87-b2262e9f65de@f608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十六章 中国特色大国外交和推动构建人类命运共同体 第一节 新时代中国外交在大变局中开创新局 一、当今世界正经历百年未有之大变局 二、中国必须有自己特色的大国外交 三、我国国际影响力、感召力、塑造力显著提升 第二节 全面推进中国特色大国外交 一、坚持走和平发展道路 二、推动构建新型国际关系三、坚决维护国家主权、安全、发展利益 四、坚持外交为民 第三节 推动构建人类命运共同体 一、构建人类命运共同体是世界各国人民前途所在 二、推动构建人类命运共同体的价值基础和重要依托 三、积极参与全球治理体系改革和建设 四、高质量共建&ldquo\;一带一路&rdquo\;  学习并理解如下问题：（1）为什么说当今世界百年未有之大变局加速演进（2）全面推进中国特色大国外交的原则和布局（3）推动构建人类命运共同体的丰富内涵和实践成果
-DTEND:20261225T040000Z
-LOCATION:教1-306
-DTSTART:20261225T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:913598a9-ba53-45d6-b2ad-0dc28bce8607@9135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 前言：主要介绍课程的性质、课程的学习方法、培养数学与算法思维以及软硬件结合的思想
-DTEND:20260903T081500Z
-LOCATION:教3-307
-DTSTART:20260903T064000Z
-SUMMARY:计算机系统结构
-UID:605d73c1-5660-4827-8fa0-0d5452921393@605d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 讲种子填充（四连通/八连通）及其与扫描线算法的适用场景，顺带点一下字符与走样现象。光栅三章收口：生成、填充、离散化误差
-DTEND:20261020T081500Z
-LOCATION:教1-316
-DTSTART:20261020T064000Z
-SUMMARY:计算机图形学
-UID:f5842762-ca47-4ea9-a355-3cd85ea02aa0@f584.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 6. Linux内核简介-上
-DTEND:20261007T020500Z
-LOCATION:教2-515
-DTSTART:20261007T003000Z
-SUMMARY:Linux技术
-UID:dd8871a1-0e34-44ff-bab8-0c2fa3050705@dd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 考试
-DTEND:20261218T081500Z
-LOCATION:教1-403
-DTSTART:20261218T064000Z
-SUMMARY:智能芯片原理与应用
-UID:1c84e2f2-5e9a-4c0b-8122-bae413b63763@1c84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 人机交互技术	掌握在I2C LED矩阵上面显示消息，掌握在Alphanumeric LCD模块上显示消息，了解触摸屏种类和工作原理，掌握获取触摸屏点击位置的方法。
-DTEND:20260915T020500Z
-LOCATION:教2-512
-DTSTART:20260915T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:8a468f44-5f40-4a0b-99ed-d1a5402ff819@8a46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20260929T100500Z
-LOCATION:教1-314
-DTSTART:20260929T083000Z
-SUMMARY:机器学习
-UID:3d9e6e31-2867-4bca-9920-d6eaecf6c117@3d9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 导论 一、习近平新时代中国特色社会主义思想创立的时代背景 二、习近平新时代中国特色社会主义思想是&ldquo\;两个结合&rdquo\;的 重大成果 三、习近平新时代中国特色社会主义思想是完整的科学体系 四、习近平新时代中国特色社会主义思想的历史地位 五、深刻领悟&ldquo\;两个确立&rdquo\;的决定性意义 六、学好用好习近平新时代中国特色社会主义思想 学习理解如下五个问题：（1）习近平新时代中国特色社会主义思想是如何创立的（2）习近平新时代中国特色社会主义思想回答了什么重大时代课题（3）习近平新时代中国特色社会主义思想主要包含哪些内容（4）如何理解习近平新时代中国特色社会主义思想的历史地位（5）如何学好用好习近平新时代中国特色社会主义思想
-DTEND:20260904T040000Z
-LOCATION:教1-306
-DTSTART:20260904T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:96a26c7f-2d2c-45c1-96b4-503dc8cbbccc@96a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 1.数据库及系统的实现
-DTEND:20270111T091500Z
-LOCATION:工1-415
-DTSTART:20270111T055000Z
-SUMMARY:数据库系统课程设计
-UID:9fa12b70-0760-4f85-9b28-eda264ed594f@9fa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第四章 数据库的安全性（1）
-DTEND:20260930T040000Z
-LOCATION:教5-102
-DTSTART:20260930T022500Z
-SUMMARY:数据库系统
-UID:8fb2818a-bf14-4257-8c33-389fadc83491@8fb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 认证，报文认证，Hash函数
-DTEND:20261019T020500Z
-LOCATION:教2-224
-DTSTART:20261019T003000Z
-SUMMARY:信息安全概论
-UID:f42bc01e-e9b2-4af3-98ac-4aea7b6d1c36@f42b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郭少琼\nRemarks: 完成视频观看及线上考试
-DTEND:20261021T125500Z
-DTSTART:20261021T103000Z
-SUMMARY:欧洲文明与世界遗产
-UID:61f29b54-c9fe-4ad0-a2a7-c53e905b6783@61f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伯泉\nRemarks: 第9章 数据仓库 Hive
-DTEND:20261027T040000Z
-LOCATION:教4-310
-DTSTART:20261027T022500Z
-SUMMARY:大数据技术基础
-UID:fa00cc74-3c46-4ef0-8cb7-090b903adcb4@fa00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十五章 坚持&ldquo\;一国两制&rdquo\;和推进祖国完全统一 第一节 全面准确理解和贯彻&ldquo\;一国两制&rdquo\;方针 一、&ldquo\;一国两制&rdquo\;是中国特色社会主义的伟大创举 二、准确把握&ldquo\;一国两制&rdquo\;的科学内涵 三、坚持和完善&ldquo\;一国两制&rdquo\;制度体系 第二节 保持香港、澳门长期繁荣稳定 一、香港、澳门保持长期稳定发展良好态势 二、推动香港进入由乱到治走向由治及兴的新阶段 三、支持香港、澳门融入国家发展大局 第三节 推进祖国完全统一 一、实现祖国完全统一是中华民族伟大复兴的必然要求 二、坚持贯彻新时代党解决台湾问题的总体方略 三、牢牢把握两岸关系主导权和主动权 学习并理解如下问题：（1）如何全面准确理解和贯彻&ldquo\;一国两制&rdquo\;方针（2）为什么说&ldquo\;一国两制&rdquo\;是保持港澳长期繁荣稳定的最佳制度（3）为什么说祖国完全统一的时和势始终在我们这一边
-DTEND:20261218T040000Z
-LOCATION:教1-306
-DTSTART:20261218T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:4914a2ad-2bf8-4ef7-87db-cb734b408aae@4914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章关系数据理论6.1问题的提出6.2规范化6.2.1函数依赖6.2.2码6.2.3范式
-DTEND:20261012T081500Z
-LOCATION:教4-305
-DTSTART:20261012T064000Z
-SUMMARY:数据库系统
-UID:9cc536f5-eba1-4c1a-80c0-0b728bf8c449@9cc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第七章 数据库设计7.3 概念结构设计7.4逻辑结构设计
-DTEND:20261109T081500Z
-LOCATION:教4-305
-DTSTART:20261109T064000Z
-SUMMARY:数据库系统
-UID:b4839bda-287c-4ad0-88e7-c0efffcb52de@b483.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十七章 全面从严治党 第一节 全面从严治党是新时代党的建设的鲜明主题  一、打铁必须自身硬 二、坚定不移全面从严治党 三、全面从严治党取得历史性开创性成就  第二节 以政治建设为统领深入推进党的建设 一、把党的政治建设摆在首位 二、思想建设是党的基础性建设 三、贯彻新时代党的组织路线 四、以严的基调强化正风肃纪 五、把制度建设贯穿到党的各项建设之中 第三节 坚定不移推进反腐败斗争 一、腐败是党长期执政面临的最大威胁 二、坚持标本兼治开展反腐败斗争 三、反腐败必须永远吹冲锋号 第四节 建设长期执政的马克思主义政党 一、党的自我革命是跳出历史周期律的第二个答案 二、时刻保持解决大党独有难题的清醒和坚定 三、以伟大自我革命引领伟大社会革命 学习并理解如下问题：（1）为什么要全面从严治党（2）十八大以来管党治党宽松软状况得到根本扭转（3）如何理解全面从严治党这场伟大自我革命
-DTEND:20270101T040000Z
-LOCATION:教1-306
-DTSTART:20270101T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:df6fbdea-69f2-479b-8e50-2b0e18a51d0f@df6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 对称算法DES算法
-DTEND:20260928T020500Z
-LOCATION:教2-224
-DTSTART:20260928T003000Z
-SUMMARY:信息安全概论
-UID:28b40d11-d30f-4980-90cd-7098b9d80a64@28b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习主流编程框架使用
-DTEND:20261002T081500Z
-LOCATION:教1-403
-DTSTART:20261002T064000Z
-SUMMARY:智能芯片原理与应用
-UID:a50fee93-47c8-41cd-9a36-2550b0500e31@a50f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 12. Linux系统管理
-DTEND:20261118T020500Z
-LOCATION:教2-515
-DTSTART:20261118T003000Z
-SUMMARY:Linux技术
-UID:e43ee152-ec45-4c84-a846-2150d1609bb2@e43e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 防火墙，入侵检测系统
-DTEND:20261130T020500Z
-LOCATION:教2-224
-DTSTART:20261130T003000Z
-SUMMARY:信息安全概论
-UID:35a94997-7d02-42e8-bdd7-4506ed1b8115@35a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第五章 全面深化改革开放 第一节 改革开放是决定当代中国命运的关键一招 一、改革开放是我们前进的重要法宝 二、新时代全面深化改革开放是一场深刻革命 三、坚持全面深化改革开放的正确方向 第二节 统筹推进各领域各方面改革开放 一、坚持全面深化改革总目标 二、推进国家治理体系和治理能力现代化 三、全面深化改革开放要坚持正确方法论 第三节 将改革开放进行到底 一、改革开放永无止境 二、坚定不移把全面深化改革引向深入 三、坚定不移扩大高水平对外开放 学习并理解如下问题：（1）为什么要全面深化改革（2）怎样推进全面深化改革（3）如何构建对外开放新格局
-DTEND:20261009T040000Z
-LOCATION:教1-306
-DTSTART:20261009T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:ab2971d3-36e7-44c4-a966-bc9d2458b879@ab29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 3.检查、答辩
-DTEND:20270113T091500Z
-LOCATION:工1-415
-DTSTART:20270113T055000Z
-SUMMARY:数据库系统课程设计
-UID:6bd423b3-712d-4bc7-8df9-9cd1dfbdaff2@6bd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.6 空值处理 3.7 视图  习题讲解（关系运算、连接查询等）
-DTEND:20260928T081500Z
-LOCATION:教4-305
-DTSTART:20260928T064000Z
-SUMMARY:数据库系统
-UID:e2869671-fd53-494f-bab7-86c67a62b2ba@e286.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 三级存储系统
-DTEND:20261001T081500Z
-LOCATION:教3-307
-DTSTART:20261001T064000Z
-SUMMARY:计算机系统结构
-UID:d04e1622-eac9-4b77-9bec-b1e953117ce4@d04e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十章 关系查询处理和查询优化（2）、第十章 数据库恢复技术（1）
-DTEND:20261130T081500Z
-LOCATION:教4-305
-DTSTART:20261130T064000Z
-SUMMARY:数据库系统
-UID:3dd347a2-2f85-4b53-b8c2-4546d3f9f98f@3dd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验二  数据的查询及更新
-DTEND:20261024T091500Z
-LOCATION:工1-415
-DTSTART:20261024T055000Z
-SUMMARY:数据库系统实验
-UID:090ff289-159a-447e-9df7-2a56e6a4b965@090f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 恶意代码，软件安全
-DTEND:20261123T020500Z
-LOCATION:教2-224
-DTSTART:20261123T003000Z
-SUMMARY:信息安全概论
-UID:9f261c0d-99c0-414b-83ae-b545b7deca8b@9f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 访问控制，安全模型
-DTEND:20260914T020500Z
-LOCATION:教2-224
-DTSTART:20260914T003000Z
-SUMMARY:信息安全概论
-UID:f5ac2e07-d0c8-4285-a501-105d820ba0f0@f5ac.org
+UID:6e7cab43-ed6f-40d1-9bca-2ae8969bb3ba@6e7c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 谢良\nRemarks: 大模型基础及模型轻量化方法
@@ -1548,127 +31,55 @@ DTEND:20260925T081500Z
 LOCATION:教1-403
 DTSTART:20260925T064000Z
 SUMMARY:智能芯片原理与应用
-UID:d4e476c0-0a65-49d7-b19d-34a187874261@d4e4.org
+UID:fceaa875-8761-4b28-80a4-307e3d12ca7c@fcea.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261006T100500Z
-LOCATION:教1-314
-DTSTART:20261006T083000Z
-SUMMARY:机器学习
-UID:c0b8c06a-3217-46ba-9053-fb1efe6d428b@c0b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十一章 数据库恢复技术（2）
-DTEND:20261207T081500Z
-LOCATION:教4-305
-DTSTART:20261207T064000Z
-SUMMARY:数据库系统
-UID:bc5b48e9-40ab-47b5-989b-779de2568f58@bc5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第四章 坚持以人民为中心 第一节 江山就是人民，人民就是江山 一、人民是历史的创造者，是真正的英雄 二、打江山、守江山，守的是人民的心 三、人民立场是中国共产党的根本政治立场 第二节 坚持人民至上 一、人民对美好生活的向往就是党的奋斗目标 二、依靠人民创造历史伟业 三、人民是党的工作的最高裁决者和最终评判者 第三节 全面落实以人民为中心的发展思想 一、坚持和贯彻党的群众路线 二、把为人民造福的事情真正办好办实 三、推动全体人民共同富裕取得更为明显的实质性进展 学习并理解如下问题：（1）为什么必须坚持以人民为中心（2）如何理解不断实现人民对美好生活的向往（3）怎样推动人的全面发展、全体人民共同富裕
-DTEND:20261002T040000Z
-LOCATION:教1-306
-DTSTART:20261002T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:94d49007-2270-43dc-bc50-123a480d6aaa@94d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 算法映射、指令集及微体系架构，流水线设计
-DTEND:20261120T081500Z
-LOCATION:教1-403
-DTSTART:20261120T064000Z
-SUMMARY:智能芯片原理与应用
-UID:afa4a86a-acee-4757-a3ab-8ea71e7104ef@afa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 存储系统\,存储系统原理
-DTEND:20260924T081500Z
-LOCATION:教3-307
-DTSTART:20260924T064000Z
-SUMMARY:计算机系统结构
-UID:e20ebcc0-7293-4279-89dd-fc66098b7d75@e20e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第八章 发展全过程人民民主 第一节 坚定中国特色社会主义政治制度自信 一、人民民主是社会主义的生命 二、中国特色社会主义政治制度行得通、有生命力、有效率 三、坚定不移走中国特色社会主义政治发展道路 第二节 全过程人民民主是社会主义民主政治的本质属性 一、全过程人民民主是社会主义民主政治的伟大创造 二、全过程人民民主是全链条、全方位、全覆盖的民主 三、全过程人民民主是最广泛、最真实、最管用的民主 第三节 健全人民当家作主的制度体系 一、加强人民当家作主制度保障 二、全面发展协商民主 三、积极发展基层民主 第四节 巩固和发展新时代爱国统一战线 一、统一战线是凝聚人心、汇聚力量的强大法宝 二、铸牢中华民族共同体意识 三、加强和促进海内外中华儿女大团结 学习并理解如下问题：（1）什么是全过程人民民主（2）全过程人民民主好在哪里   （3）如何践行全过程人民民主 
-DTEND:20261030T040000Z
-LOCATION:教1-306
-DTSTART:20261030T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:dc4bd9d0-824b-4718-8a07-208f4d690420@dc4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 9.4 对象模型 9.5 动态模型 9.6 功能模型 9.7 三种模型之间的关系
-DTEND:20261112T040000Z
-LOCATION:教4-307
-DTSTART:20261112T022500Z
-SUMMARY:软件工程
-UID:632ffc01-75fd-4878-a915-d5be10029d89@632f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第六章 邓小平理论 第二节 邓小平理论的主要内容  这次课主要讲解 社会主义改革开放和社会主义市场经济理论。重点讲解改革开放理论，分别从改革开放的依据、改革开放的历程、改革的性质、三个有利于标准和开放也是以改革。社会主义市场经济理论主要讲解社会主义市场经济的形成和内涵
-DTEND:20261123T100500Z
-LOCATION:教3-109
-DTSTART:20261123T083000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:c6ae2308-40c1-40f5-a221-fb9a92f827d5@c6ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习编程框架机理
-DTEND:20261009T081500Z
-LOCATION:教1-403
-DTSTART:20261009T064000Z
-SUMMARY:智能芯片原理与应用
-UID:34cb3729-915f-48ee-88d9-98bb3f4e35b3@34cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 课程简介，概述及课堂交流互动；分析英文电影的特点；课堂思政，通过中国电影的前沿科技，激发学生对课外文学作品的热情，从而鼓舞学生为社会主义建设贡献。
-DTEND:20260903T125500Z
+DESCRIPTION:Teacher: 黄权东\nRemarks: 课程总结与讨论，反转课堂
+DTEND:20261029T125500Z
 LOCATION:教1-435
-DTSTART:20260903T103000Z
+DTSTART:20261029T103000Z
 SUMMARY:英文电影赏析
-UID:5081b5ec-5507-428c-961e-b25620d9a2c0@5081.org
+UID:93ca79fc-adaa-43b3-a424-1b24e5624753@93ca.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 乔杰\nRemarks: 5. Linux Shell编程设计-下
-DTEND:20260930T020500Z
-LOCATION:教2-515
-DTSTART:20260930T003000Z
-SUMMARY:Linux技术
-UID:d1a4f396-1a79-4b14-8fe2-f0b08bfbfba7@d1a4.org
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 认证，报文认证，Hash函数
+DTEND:20261019T020500Z
+LOCATION:教2-224
+DTSTART:20261019T003000Z
+SUMMARY:信息安全概论
+UID:2fa3f652-7e98-46c1-af0e-2b9340c3019f@2fa3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第3章 需求分析 3.1需求分析的任务  3.2 与用户沟通获取需求的方法  3.3 分析建模与规格说明 3.4 实体－联系图3.5 数据规范化 3.6 状态转换图 3.7其他图形工具 3.8 验证软件需求
-DTEND:20260910T040000Z
+DESCRIPTION:Teacher: 谢良\nRemarks: 智能计算系统前沿概述：人工智能和智能芯片的发展历史；深度学习系统；硬件层基本架构；软件栈基本架构；计算效率优化原理等
+DTEND:20260904T081500Z
+LOCATION:教1-403
+DTSTART:20260904T064000Z
+SUMMARY:智能芯片原理与应用
+UID:41d671c8-905d-4a80-8b28-efc4b80f6acb@41d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 10.4  建立动态模型 10.5 建立功能模型 10.6 定义服务
+DTEND:20261126T040000Z
 LOCATION:教4-307
-DTSTART:20260910T022500Z
+DTSTART:20261126T022500Z
 SUMMARY:软件工程
-UID:b15afaef-62b0-49c2-a61c-41c660590389@b15a.org
+UID:02b21b4b-d00f-4a51-8858-73777676235e@02b2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 智能传感器技术	掌握嵌入式智能系统常用的传感技术，用超声波传感器测量距离，掌握用IMU传感器测量速度、加速度和姿态，掌握用传感器监控大气的温度和湿度，掌握激光雷达传感器的工作原理及扫描数据的获取。
-DTEND:20260908T020500Z
-LOCATION:教2-512
-DTSTART:20260908T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:9ffa2bf1-2aff-4184-8519-94263d1df6d3@9ffa.org
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第7章 实现 7.1编码    7.2 软件测试基础   7.3 单元测试
+DTEND:20261008T040000Z
+LOCATION:教4-307
+DTSTART:20261008T022500Z
+SUMMARY:软件工程
+UID:672acc63-9a42-4cd9-8478-6ff8e8433b6a@672a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的科技英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
-DTEND:20261015T125500Z
-LOCATION:教1-435
-DTSTART:20261015T103000Z
-SUMMARY:英文电影赏析
-UID:15cc4ad4-57fc-43a9-8e2a-cfee54caf5af@15cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 汪明慧\nRemarks: 
-DTEND:20261027T100500Z
-LOCATION:教1-314
-DTSTART:20261027T083000Z
-SUMMARY:机器学习
-UID:43700014-fb30-4376-a0d0-dada751b6f54@4370.org
+DESCRIPTION:Teacher: 高挪英\nRemarks: 导论 一、习近平新时代中国特色社会主义思想创立的时代背景 二、习近平新时代中国特色社会主义思想是&ldquo\;两个结合&rdquo\;的 重大成果 三、习近平新时代中国特色社会主义思想是完整的科学体系 四、习近平新时代中国特色社会主义思想的历史地位 五、深刻领悟&ldquo\;两个确立&rdquo\;的决定性意义 六、学好用好习近平新时代中国特色社会主义思想 学习理解如下五个问题：（1）习近平新时代中国特色社会主义思想是如何创立的（2）习近平新时代中国特色社会主义思想回答了什么重大时代课题（3）习近平新时代中国特色社会主义思想主要包含哪些内容（4）如何理解习近平新时代中国特色社会主义思想的历史地位（5）如何学好用好习近平新时代中国特色社会主义思想
+DTEND:20260904T040000Z
+LOCATION:教1-306
+DTSTART:20260904T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:83796520-9260-4ab0-b1dc-09595fb9d50e@8379.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 汪明慧\nRemarks: 
@@ -1676,111 +87,79 @@ DTEND:20261117T100500Z
 LOCATION:教1-314
 DTSTART:20261117T083000Z
 SUMMARY:机器学习
-UID:6dbe37e7-438c-4981-a0a5-a1b6a6c9eb2d@6dbe.org
+UID:7d78e414-c5cf-4427-a183-1544c50ea7f8@7d78.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 郝彦军\nRemarks: 信息系统安全内容，安全标准
-DTEND:20260907T020500Z
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十章 关系查询处理和查询优化（2）、第十章 数据库恢复技术（1）
+DTEND:20261130T081500Z
+LOCATION:教4-305
+DTSTART:20261130T064000Z
+SUMMARY:数据库系统
+UID:e2570987-7a53-486d-b386-389c565ef527@e257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks:  公钥密码体制ELGAMAL ， 公钥密码体制ECC
+DTEND:20261012T020500Z
 LOCATION:教2-224
-DTSTART:20260907T003000Z
+DTSTART:20261012T003000Z
 SUMMARY:信息安全概论
-UID:4a97ed5d-2f3f-4158-8a37-c376e9ed3468@4a97.org
+UID:755c5633-4a7a-493d-9992-0affa9408091@755c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的古典英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
-DTEND:20260924T125500Z
-LOCATION:教1-435
-DTSTART:20260924T103000Z
-SUMMARY:英文电影赏析
-UID:6f831001-c601-47f6-8a02-ca877f30f313@6f83.org
+DESCRIPTION:Teacher: 谢良\nRemarks: 寒武纪AI芯片平台
+DTEND:20261204T081500Z
+LOCATION:教1-403
+DTSTART:20261204T064000Z
+SUMMARY:智能芯片原理与应用
+UID:f2997a9e-e100-4651-b2f2-53c049312f81@f299.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第9章 面向对象方法学习引论 9.1 面向对象方法学概述 9.2 面向对象的概念 9.3 面向对象建模
-DTEND:20261105T040000Z
-LOCATION:教4-307
-DTSTART:20261105T022500Z
-SUMMARY:软件工程
-UID:1da98ac9-bb1d-4803-b033-78b6c4111f36@1da9.org
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十二章 并发控制（1）
+DTEND:20261214T081500Z
+LOCATION:教4-305
+DTSTART:20261214T064000Z
+SUMMARY:数据库系统
+UID:c45e2203-0db1-4dd4-84bc-5104fb7c05fe@c45e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 龚怡\nRemarks: 第7章 7.7 黑盒测试技术 7.8 调试 7.9 软件可靠性 7.10 预测法
-DTEND:20261022T040000Z
-LOCATION:教4-307
-DTSTART:20261022T022500Z
-SUMMARY:软件工程
-UID:e21371c1-f809-42c3-90b1-f3ef28dd4990@e213.org
+DESCRIPTION:Teacher: 张煜帆\nRemarks: 课程主要内容、学习方式、考核形式、注意事项讲解，在线网络课程系统使用方法介绍。[思政]工程师职业道德内涵介绍。在线网络课程学习网站：http://www.zhihuishu.com，点击新用户注册，设置登录密码，完善学校和学号信息之后即可进入学习系统。之前已经在该平台修过课程的，用已有学号和密码登录。
+DTEND:20260907T063500Z
+LOCATION:教3-103
+DTSTART:20260907T055000Z
+SUMMARY:工程伦理
+UID:aac94c78-cf15-498c-8276-0d80485c0e36@aac9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 蓝牙Beacon系统的构建
-DTEND:20261103T020500Z
-LOCATION:教2-512
-DTSTART:20261103T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:e1715715-b8be-4b18-8d76-8ab329272eac@e171.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 张伟文\nRemarks: 答疑
-DTEND:20261210T081500Z
-LOCATION:教3-307
-DTSTART:20261210T064000Z
-SUMMARY:计算机系统结构
-UID:5f2fe34d-9ba5-46f0-92e1-636d0111f874@5f2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 香橙派开发智能设备的方法、工具和流程
-DTEND:20261020T020500Z
-LOCATION:教2-512
-DTSTART:20261020T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:0bb550de-b728-48c6-ab88-1233f1180b6a@0bb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 高挪英\nRemarks: 第十三章 维护和塑造国家安全 第一节 坚持总体国家安全观 一、国家安全是民族复兴的根基 二、总体国家安全观是新时代国家安全工作的基本遵循 三、新时代国家安全得到全面加强 第二节 构建统筹各领域安全的新安全格局 一、统筹发展和安全 二、把维护政治安全放在首要位置 三、维护重点领域国家安全 第三节 开创新时代国家安全工作新局面 一、推进国家安全体系和能力现代化 二、建设更高水平的平安中国 三、提高防范化解重大风险能力 学习并理解如下问题：（1）为什么要坚持总体国家安全观（2）如何构建统筹各领域安全的新安全格局（3）怎样推进国家安全体系和能力现代化
-DTEND:20261211T040000Z
-LOCATION:教1-306
-DTSTART:20261211T022500Z
-SUMMARY:习近平新时代中国特色社会主义思想概论
-UID:3ba676b7-6105-43e6-aad6-2179d37351f8@3ba6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 杨博\nRemarks: 
-DTEND:20260929T081500Z
-LOCATION:宿舍(大学城)
-DTSTART:20260929T073000Z
-SUMMARY:劳动教育
-UID:2f320539-1c09-4e4b-bc91-d948c4d122f1@2f32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 何元烈\nRemarks: 嵌入式开发技术	掌握各种嵌入式系统的开发方法、开发工具和开发技巧。
-DTEND:20260929T020500Z
-LOCATION:教2-512
-DTSTART:20260929T003000Z
-SUMMARY:智能嵌入式系统设计
-UID:36e0a527-65f6-4cbb-a1e9-be49e9ba3b90@36e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 曹亚琴\nRemarks: 导论 马克思主义中国化时代化的历史进程与理论成果 一、马克思主义中国化时代化的提出 二、马克思主义中国化时代化的内涵 三、马克思主义中国化时代化的历史进程 四、马克思主义中国化时代化理论成果及其关系
-DTEND:20260902T081500Z
-LOCATION:教3-109
-DTSTART:20260902T064000Z
-SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
-UID:4c2a9b31-1b65-4bfb-84a4-0963157b1967@4c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 黄权东\nRemarks: 课程总结与讨论，反转课堂
-DTEND:20261022T125500Z
-LOCATION:教1-435
-DTSTART:20261022T103000Z
-SUMMARY:英文电影赏析
-UID:647d3d7a-12cf-4d19-8268-e8a206357457@647d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 由曲线张量积升到曲面，讲 B&eacute\;zier 曲面（及 B 样条曲面要点）的控制网格、求值和网格化显示。让学生看到&ldquo\;曲线方法如何变成一片面&rdquo\;。
-DTEND:20261223T020500Z
-LOCATION:教2-503
-DTSTART:20261223T003000Z
+DESCRIPTION:Teacher: 吕銮\nRemarks: 讲清图形学是什么、和图像处理/计算机视觉的差别，以及发展脉络与主要应用（CAD、游戏影视、科学可视化、VR/元宇宙）。说明本课 16 次安排、考核构成和先修要求。
+DTEND:20260908T081500Z
+LOCATION:教1-316
+DTSTART:20260908T064000Z
 SUMMARY:计算机图形学
-UID:e103709b-673d-418e-b6ee-f2dbb998cdc3@e103.org
+UID:d15015da-04f8-4ddf-98ff-f8c348ad4913@d150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 讲中点画圆/椭圆，再进入多边形：扫描线填充、边表与活性边表。强调&ldquo\;按扫描线推进、维护交点&rdquo\;这条主线，为后面区域填充打底。
+DTEND:20261013T081500Z
+LOCATION:教1-316
+DTSTART:20261013T064000Z
+SUMMARY:计算机图形学
+UID:d06da5ee-2b53-47ae-9685-31c1b3090d6a@d06d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 系统设计实例	了解平衡车的开发设计案例，了解无人机的开发设计案例。
+DTEND:20261006T020500Z
+LOCATION:教2-512
+DTSTART:20261006T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:c388c95b-d3c3-4900-a0bf-12064d50c525@c388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 窗口&mdash\;视区变换，以及直线裁剪（Cohen&ndash\;Sutherland、梁友栋&ndash\;Barsky）和多边形裁剪（Sutherland&ndash\;Hodgman）。让学生把&ldquo\;世界坐标 &rarr\; 窗口 &rarr\; 屏幕&rdquo\;这条二维显示链走通。
+DTEND:20261103T081500Z
+LOCATION:教1-316
+DTSTART:20261103T064000Z
+SUMMARY:计算机图形学
+UID:72382718-d3c1-41e0-b0c0-aa74fa02ef67@7238.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 张伟文\nRemarks: 考试
@@ -1788,15 +167,486 @@ DTEND:20261217T081500Z
 LOCATION:教3-307
 DTSTART:20261217T064000Z
 SUMMARY:计算机系统结构
-UID:a3073be3-510c-4cc1-bdfd-88b4f836b09d@a307.org
+UID:48c7f73a-ad24-4d56-8aac-02a988bfd32a@48c7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 吕銮\nRemarks: 从 CAGD 和连续性（C0/C1/G1）讲起，重点讲 B&eacute\;zier 曲线、de Casteljau 求值和控制顶点的作用，B 样条作对比简介。
-DTEND:20261215T081500Z
+DESCRIPTION:Teacher: 龚怡\nRemarks: 9.4 对象模型 9.5 动态模型 9.6 功能模型 9.7 三种模型之间的关系
+DTEND:20261112T040000Z
+LOCATION:教4-307
+DTSTART:20261112T022500Z
+SUMMARY:软件工程
+UID:0d2e975a-837b-4c9b-ad7a-264efd19f4fc@0d2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 嵌入式处理器技术	掌握SOC和SOPC系统概念，了解它们的发展现状和主要研究应用领域。理解嵌入式系统的处理器的架构特点。
+DTEND:20260901T020500Z
+LOCATION:教2-512
+DTSTART:20260901T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:1bf9c54d-fcf7-4d13-afdc-99e029b8b712@1bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第八章 发展全过程人民民主 第一节 坚定中国特色社会主义政治制度自信 一、人民民主是社会主义的生命 二、中国特色社会主义政治制度行得通、有生命力、有效率 三、坚定不移走中国特色社会主义政治发展道路 第二节 全过程人民民主是社会主义民主政治的本质属性 一、全过程人民民主是社会主义民主政治的伟大创造 二、全过程人民民主是全链条、全方位、全覆盖的民主 三、全过程人民民主是最广泛、最真实、最管用的民主 第三节 健全人民当家作主的制度体系 一、加强人民当家作主制度保障 二、全面发展协商民主 三、积极发展基层民主 第四节 巩固和发展新时代爱国统一战线 一、统一战线是凝聚人心、汇聚力量的强大法宝 二、铸牢中华民族共同体意识 三、加强和促进海内外中华儿女大团结 学习并理解如下问题：（1）什么是全过程人民民主（2）全过程人民民主好在哪里   （3）如何践行全过程人民民主 
+DTEND:20261030T040000Z
+LOCATION:教1-306
+DTSTART:20261030T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:9ebe805d-3af7-404b-86a3-8d87fcd9acbc@9ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第6章 6.4 面向数据结构的设计方法 6.5 程序复杂度的定量度量
+DTEND:20261001T040000Z
+LOCATION:教4-307
+DTSTART:20261001T022500Z
+SUMMARY:软件工程
+UID:808c74d0-748b-4f84-87a3-a15bce0ca049@808c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 基本的设计与工程化开发方法
+DTEND:20261030T081500Z
+LOCATION:教1-403
+DTSTART:20261030T064000Z
+SUMMARY:智能芯片原理与应用
+UID:e8436539-3ce5-49db-9dcb-b8ac4c18aed3@e843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第一章 新时代坚持和发展中国特色社会主义 第一节 方向决定道路，道路决定命运 一、中国特色社会主义是历史和人民的选择  二、中国特色社会主义是社会主义而不是其他什么主义 三、坚定道路自信、理论自信、制度自信、文化自信 第二节 中国特色社会主义进入新时代 一、中国特色社会主义新时代是我国发展新的历史方位 二、社会主要矛盾变化是关系全局的历史性变化 三、新时代伟大变革及其里程碑意义 第三节 新时代坚持和发展中国特色社会主义要一以贯之 一、全面贯彻党的基本理论、基本路线、基本方略 二、统筹推进&ldquo\;五位一体&rdquo\;总体布局和协调推进&ldquo\;四个全面&rdquo\;战略布局 三、推动中国特色社会主义不断开拓前进 学习并理解如下问题：（1）中国特色社会主义如何一路走来（2）如何理解中国特色社会主义是社会主义而不是其他主义（3）为什么说中国特色社会主义进入了新时代（4）新时代坚持和发展中国特色社会主义如何一以贯之
+DTEND:20260911T040000Z
+LOCATION:教1-306
+DTSTART:20260911T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:f685e009-18d6-4ab7-820b-a256653674a0@f685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 11. Linux编程环境-下
+DTEND:20261111T020500Z
+LOCATION:教2-515
+DTSTART:20261111T003000Z
+SUMMARY:Linux技术
+UID:4bca6728-9627-44b4-ba3b-7faacb88c00c@4bca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 实验五 常用开发工具\n实验六 常用开发工具二\n实验七 Linux环境编程
+DTEND:20261111T100500Z
+LOCATION:工1-415
+DTSTART:20261111T064000Z
+SUMMARY:Linux技术
+UID:6e96b63b-4fe6-40d3-84ee-dc954c31c791@6e96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 算法映射、指令集及微体系架构，流水线设计
+DTEND:20261120T081500Z
+LOCATION:教1-403
+DTSTART:20261120T064000Z
+SUMMARY:智能芯片原理与应用
+UID:2731f164-e8dd-4449-9f46-a631e6b5d53a@2731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第二章 以中国式现代化全面推进中华民族伟大复兴 第一节 中华民族近代以来最伟大的梦想 一、实现中华民族伟大复兴的中国梦 二、在中华大地上全面建成小康社会 三、全面建成社会主义现代化强国 第二节 中国式现代化是强国建设、民族复兴的唯一正确道路 一、中国式现代化是中国共产党领导人民长期探索和实践的重大成果 二、中国式现代化的中国特色 三、中国式现代化的本质要求 四、中国式现代化创造了人类文明新形态 第三节 推进中国式现代化行稳致远 一、推进中国式现代化需要牢牢把握的重大原则 二、推进中国式现代化需要正确处理的重大关系 三、推进中国式现代化必须坚持团结奋斗 学习并理解如下问题：（1）为什么说实现中华民族伟大复兴进入了不可逆转的历史进程（2）如何擘画全面建成社会主义现代化强国的宏伟蓝图（3）中国式现代化是一种什么样的现代化
+DTEND:20260918T040000Z
+LOCATION:教1-306
+DTSTART:20260918T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:ae5e9d24-ed30-40a2-88e2-6e15de4e41c4@ae5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十五章 坚持&ldquo\;一国两制&rdquo\;和推进祖国完全统一 第一节 全面准确理解和贯彻&ldquo\;一国两制&rdquo\;方针 一、&ldquo\;一国两制&rdquo\;是中国特色社会主义的伟大创举 二、准确把握&ldquo\;一国两制&rdquo\;的科学内涵 三、坚持和完善&ldquo\;一国两制&rdquo\;制度体系 第二节 保持香港、澳门长期繁荣稳定 一、香港、澳门保持长期稳定发展良好态势 二、推动香港进入由乱到治走向由治及兴的新阶段 三、支持香港、澳门融入国家发展大局 第三节 推进祖国完全统一 一、实现祖国完全统一是中华民族伟大复兴的必然要求 二、坚持贯彻新时代党解决台湾问题的总体方略 三、牢牢把握两岸关系主导权和主动权 学习并理解如下问题：（1）如何全面准确理解和贯彻&ldquo\;一国两制&rdquo\;方针（2）为什么说&ldquo\;一国两制&rdquo\;是保持港澳长期繁荣稳定的最佳制度（3）为什么说祖国完全统一的时和势始终在我们这一边
+DTEND:20261218T040000Z
+LOCATION:教1-306
+DTSTART:20261218T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:3985b7cb-ab17-4332-b696-fe4047fdf3d1@3985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第4章 分布式数据库 HBase
+DTEND:20260922T040000Z
+LOCATION:教4-310
+DTSTART:20260922T022500Z
+SUMMARY:大数据技术基础
+UID:e3e7568d-c88e-4038-b3e1-ae51ac24c8c5@e3e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第5章 5.4图形工具 5.5 面向数据流的设计方法
+DTEND:20260917T040000Z
+LOCATION:教4-307
+DTSTART:20260917T022500Z
+SUMMARY:软件工程
+UID:0fcdc576-5a32-4c42-9a4e-6280a9a84646@0fcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第3章 分布式文件系统 HDFS
+DTEND:20260915T040000Z
+LOCATION:教4-310
+DTSTART:20260915T022500Z
+SUMMARY:大数据技术基础
+UID:f0f5e57f-8c54-4d0e-821b-e99cc96f877d@f0f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第6章 云数据库
+DTEND:20261006T040000Z
+LOCATION:教4-310
+DTSTART:20261006T022500Z
+SUMMARY:大数据技术基础
+UID:ec0e5210-6765-4ba4-91ce-cdf73a6c55e1@ec0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 流水线处理机
+DTEND:20261015T081500Z
+LOCATION:教3-307
+DTSTART:20261015T064000Z
+SUMMARY:计算机系统结构
+UID:b51f2f5c-7216-4549-a7a5-c4e788967ffb@b51f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第四章 坚持以人民为中心 第一节 江山就是人民，人民就是江山 一、人民是历史的创造者，是真正的英雄 二、打江山、守江山，守的是人民的心 三、人民立场是中国共产党的根本政治立场 第二节 坚持人民至上 一、人民对美好生活的向往就是党的奋斗目标 二、依靠人民创造历史伟业 三、人民是党的工作的最高裁决者和最终评判者 第三节 全面落实以人民为中心的发展思想 一、坚持和贯彻党的群众路线 二、把为人民造福的事情真正办好办实 三、推动全体人民共同富裕取得更为明显的实质性进展 学习并理解如下问题：（1）为什么必须坚持以人民为中心（2）如何理解不断实现人民对美好生活的向往（3）怎样推动人的全面发展、全体人民共同富裕
+DTEND:20261002T040000Z
+LOCATION:教1-306
+DTSTART:20261002T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:359e63b0-b709-4518-8c50-c0fa283190c8@359e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第7章 7.7 黑盒测试技术 7.8 调试 7.9 软件可靠性 7.10 预测法
+DTEND:20261022T040000Z
+LOCATION:教4-307
+DTSTART:20261022T022500Z
+SUMMARY:软件工程
+UID:d9efe8b0-a410-41a9-ad45-0219f7f8e918@d9ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 信息系统安全内容，安全标准
+DTEND:20260907T020500Z
+LOCATION:教2-224
+DTSTART:20260907T003000Z
+SUMMARY:信息安全概论
+UID:5297cf5f-5a0e-42dc-b97e-acf341b916b1@5297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 无线通信技术	讲述常用的无线短距离通讯技术原理与开发应用方法，包括蓝牙， wifi通信， Zigbee通信，红外通信等。
+DTEND:20260922T020500Z
+LOCATION:教2-512
+DTSTART:20260922T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:d6bf3df6-acbf-425a-8514-7b61e4c76f12@d6bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20260922T100500Z
+LOCATION:教1-314
+DTSTART:20260922T083000Z
+SUMMARY:机器学习
+UID:3a36aa71-2d17-42fd-bf6c-8979cf577bcf@3a36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 3. 文本编辑
+DTEND:20260916T020500Z
+LOCATION:教2-515
+DTSTART:20260916T003000Z
+SUMMARY:Linux技术
+UID:9d1fd452-8bdd-4d85-9683-cc1fe317a1db@9d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 4. Linux Shell编程设计-上
+DTEND:20260923T020500Z
+LOCATION:教2-515
+DTSTART:20260923T003000Z
+SUMMARY:Linux技术
+UID:fa666164-b874-43a5-972c-0d1f15f73a7c@fa66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 数字签名
+DTEND:20261026T020500Z
+LOCATION:教2-224
+DTSTART:20261026T003000Z
+SUMMARY:信息安全概论
+UID:20387ed1-dc04-4092-bd85-972898badbc4@2038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 标量处理机\,先行控制技术
+DTEND:20261008T081500Z
+LOCATION:教3-307
+DTSTART:20261008T064000Z
+SUMMARY:计算机系统结构
+UID:9d1b4b7c-460f-4176-9cd0-df9a25280472@9d1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第12章面向对象实现 12.1 面向对象语言的优点 12.2 程序设计风格 12.3 测试策略 12.4 设计测试用例
+DTEND:20261217T040000Z
+LOCATION:教4-307
+DTSTART:20261217T022500Z
+SUMMARY:软件工程
+UID:083effe8-d00e-40fc-9e24-ac777e803ac3@083e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验六  openGauss数据库管理系统
+DTEND:20261121T091500Z
+LOCATION:工1-415
+DTSTART:20261121T055000Z
+SUMMARY:数据库系统实验
+UID:65520832-0cbb-4fe2-99bb-815ff02eae95@6552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第6章　详细设计 6.1结构程序设计   6.2 人机界面设计 6.3 过程设计的工具
+DTEND:20260924T040000Z
+LOCATION:教4-307
+DTSTART:20260924T022500Z
+SUMMARY:软件工程
+UID:98696d08-9d1a-44c1-b114-016fb2252045@9869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 一《毛概》实践成果展示与研讨；二 考试复习
+DTEND:20261221T100500Z
+LOCATION:教3-109
+DTSTART:20261221T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:fdc28410-bb21-471b-9607-885ae8d39e88@fdc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 6. Linux内核简介-上
+DTEND:20261007T020500Z
+LOCATION:教2-515
+DTSTART:20261007T003000Z
+SUMMARY:Linux技术
+UID:bd8e07dc-76f5-4c66-aba8-138bee85eb6c@bd8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习主流编程框架使用
+DTEND:20261002T081500Z
+LOCATION:教1-403
+DTSTART:20261002T064000Z
+SUMMARY:智能芯片原理与应用
+UID:612e236c-3357-42eb-812c-d416d0e157ca@612e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.5数据更新
+DTEND:20260923T040000Z
+LOCATION:教5-102
+DTSTART:20260923T022500Z
+SUMMARY:数据库系统
+UID:98394ebe-e5c3-46a5-a184-4d7c758809e6@9839.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261103T100500Z
+LOCATION:教1-314
+DTSTART:20261103T083000Z
+SUMMARY:机器学习
+UID:e5c987dc-ff54-481a-8c64-af8d5dc392dd@e5c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 光栅/矢量显示原理、GPU 在图形系统中的位置，以及从三维场景到屏幕像素的流水线（建模&mdash\;几何处理&mdash\;光栅化&mdash\;片元处理）。
+DTEND:20260915T081500Z
 LOCATION:教1-316
-DTSTART:20261215T064000Z
+DTSTART:20260915T064000Z
 SUMMARY:计算机图形学
-UID:838d372b-6140-4557-ae2a-4db3e74beeba@838d.org
+UID:254b6382-e9aa-4e7a-a713-1f689847b6d2@254b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 自主进行视频学习及小组话题讨论安排
+DTEND:20260916T125500Z
+DTSTART:20260916T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:e0411584-0f31-4cc2-a5e1-0ea12bc95744@e041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 人机交互技术	掌握在I2C LED矩阵上面显示消息，掌握在Alphanumeric LCD模块上显示消息，了解触摸屏种类和工作原理，掌握获取触摸屏点击位置的方法。
+DTEND:20260915T020500Z
+LOCATION:教2-512
+DTSTART:20260915T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:dd9e26c5-1f8d-42f2-b3aa-692353b9c2de@dd9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第五章 全面深化改革开放 第一节 改革开放是决定当代中国命运的关键一招 一、改革开放是我们前进的重要法宝 二、新时代全面深化改革开放是一场深刻革命 三、坚持全面深化改革开放的正确方向 第二节 统筹推进各领域各方面改革开放 一、坚持全面深化改革总目标 二、推进国家治理体系和治理能力现代化 三、全面深化改革开放要坚持正确方法论 第三节 将改革开放进行到底 一、改革开放永无止境 二、坚定不移把全面深化改革引向深入 三、坚定不移扩大高水平对外开放 学习并理解如下问题：（1）为什么要全面深化改革（2）怎样推进全面深化改革（3）如何构建对外开放新格局
+DTEND:20261009T040000Z
+LOCATION:教1-306
+DTSTART:20261009T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:a73fb9ac-7624-428a-96bb-723f82e98ae4@a73f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章关系数据理论6.2规范化6.2.4 2NF 6.2.5 3NF 6.2.6 BCNF 6.2.7多值依赖  6.2.8  4NF 6.2.9规范化小结
+DTEND:20261014T040000Z
+LOCATION:教5-102
+DTSTART:20261014T022500Z
+SUMMARY:数据库系统
+UID:937b1df3-c279-46e3-aeec-2c4b1b262776@937b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第五章 数据库的完整性（2），习题讲解
+DTEND:20261007T040000Z
+LOCATION:教5-102
+DTSTART:20261007T022500Z
+SUMMARY:数据库系统
+UID:67a84021-d602-4e6f-9501-6f0681e30454@67a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 香橙派开发智能设备的方法、工具和流程
+DTEND:20261020T020500Z
+LOCATION:教2-512
+DTSTART:20261020T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:67d9e956-0944-4876-9f42-9333fb34cf16@67d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 环境光、Lambert 漫反射、Phong 镜面反射，以及常量着色、Gouraud、Phong 着色的差别（在顶点还是在像素上算光）
+DTEND:20261201T081500Z
+LOCATION:教1-316
+DTSTART:20261201T064000Z
+SUMMARY:计算机图形学
+UID:125295a1-c818-421f-9321-bf8dade6997a@1252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 12. Linux系统管理
+DTEND:20261118T020500Z
+LOCATION:教2-515
+DTSTART:20261118T003000Z
+SUMMARY:Linux技术
+UID:b71064c3-c42c-4d4e-84bc-ef394660f640@b710.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 方媛\nRemarks: 课程主要内容、学习方式、考核形式、注意事项讲解，在线网络课程系统使用方法介绍。[思政]工程师职业素养、职业道德和社会责任介绍。在线网络课程学习网站：http://gdut.benke.chaoxing.com，点击新用户注册，设置登录密码，完善学校和学号信息之后即可进入学习系统。之前已经在该平台修过课程的，用已有学号和密码登录。
+DTEND:20260904T063500Z
+LOCATION:教3-101
+DTSTART:20260904T055000Z
+SUMMARY:工程管理
+UID:056d1957-3909-4e54-9873-5d73b0f8e21f@056d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 黄权东\nRemarks: 课程总结与讨论，反转课堂
+DTEND:20261022T125500Z
+LOCATION:教1-435
+DTSTART:20261022T103000Z
+SUMMARY:英文电影赏析
+UID:f3fe6c8e-2d9c-4d7e-a654-fac675e6e0a8@f3fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 课程总结及答疑
+DTEND:20261117T020500Z
+LOCATION:教2-512
+DTSTART:20261117T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:37007fb8-8d8a-4b7e-8e6d-a42e0c8c768b@3700.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第8章 Hadoop 再探讨
+DTEND:20261020T040000Z
+LOCATION:教4-310
+DTSTART:20261020T022500Z
+SUMMARY:大数据技术基础
+UID:057afce0-965e-4445-9814-88ce0f4e53cf@057a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 智能传感器技术	掌握嵌入式智能系统常用的传感技术，用超声波传感器测量距离，掌握用IMU传感器测量速度、加速度和姿态，掌握用传感器监控大气的温度和湿度，掌握激光雷达传感器的工作原理及扫描数据的获取。
+DTEND:20260908T020500Z
+LOCATION:教2-512
+DTSTART:20260908T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:be226093-ca48-4162-af64-1bc6242241a6@be22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第二章第二节 	新民主主义革命的总路线和基本纲领  一、新民主主义革命的总路线 二、新民主主义的基本纲领  
+DTEND:20260921T100500Z
+LOCATION:教3-109
+DTSTART:20260921T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:2273c801-c8f0-4c5b-922a-37741f190668@2273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第10章 Spark
+DTEND:20261103T040000Z
+LOCATION:教4-310
+DTSTART:20261103T022500Z
+SUMMARY:大数据技术基础
+UID:28b19b1d-2c95-458a-bb6f-78cccd5ba6a3@28b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十一章 数据库恢复技术（2）
+DTEND:20261207T081500Z
+LOCATION:教4-305
+DTSTART:20261207T064000Z
+SUMMARY:数据库系统
+UID:fa83a75f-3b29-4329-99a7-b2b3bc843cfe@fa83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 由曲线张量积升到曲面，讲 B&eacute\;zier 曲面（及 B 样条曲面要点）的控制网格、求值和网格化显示。让学生看到&ldquo\;曲线方法如何变成一片面&rdquo\;。
+DTEND:20261223T020500Z
+LOCATION:教2-503
+DTSTART:20261223T003000Z
+SUMMARY:计算机图形学
+UID:25b8f40e-123f-468c-b37c-23a7806385b2@25b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 考试
+DTEND:20261214T020500Z
+LOCATION:教2-224
+DTSTART:20261214T003000Z
+SUMMARY:信息安全概论
+UID:a2cbff34-95f2-4c2d-9fff-25cefc09ae99@a2cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 非线性流水线的调度技术\,局部相关
+DTEND:20261022T081500Z
+LOCATION:教3-307
+DTSTART:20261022T064000Z
+SUMMARY:计算机系统结构
+UID:64df040d-259f-445a-adea-71c69aa8a2f9@64df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第五章 中国特色社会主义理论体系的形成发展 一 形成发展的社会历史条件 二 发展过程。第五章 中国特色社会主义理论体系的形成发展 一 形成发展的社会历史条件 二 发展过程。重点探讨中国特色社会主义理论体系的形成条件。
+DTEND:20261109T100500Z
+LOCATION:教3-109
+DTSTART:20261109T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:1cde7ad0-1100-426c-87a3-a50c2ecafc7c@1cde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 2. Linux常用命令
+DTEND:20260909T020500Z
+LOCATION:教2-515
+DTSTART:20260909T003000Z
+SUMMARY:Linux技术
+UID:0df037bc-fb14-45ec-9ae4-93aebb97ce9b@0df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴[主讲]\nRemarks: 开学第一课  介绍课程的基本内容和基本要求
+DTEND:20260923T081500Z
+LOCATION:教3-109
+DTSTART:20260923T064000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:f0d5a408-7e20-4598-bf60-93d7a5775d93@f0d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第六章 推动高质量发展 第一节 完整、准确、全面贯彻新发展理念 一、我国进人新发展阶段 二、贯彻新发展理念是关系我国发展全局的一场深刻变革 三、以新发展理念引领高质量发展 第二节 坚持和完善社会主义基本经济制度 一、坚持和完善社会主义基本经济制度是实现高质量发展的 保障 二、坚持&ldquo\;两个毫不动摇&rdquo\; 三、坚持按劳分配为主体、多种分配方式并存 四、构建高水平社会主义市场经济体制 第三节 加快构建新发展格局 一、把握未来发展主动权的战略部署 二、以国内大循环为主体、国内国际双循环相互促进 三、大力推动构建新发展格局 第四节 建设现代化经济体系 一、建设现代化产业体系 二、全面推进乡村振兴 三、促进区域协调发展 学习并理解如下问题：（1）如何把握新发展阶段、贯彻新发展理念、构建新发展格局（2）如何坚持和完善社会主义基本经济制度（3）如何构建新发展格局（4）如何建设现代化经济体系 
+DTEND:20261016T040000Z
+LOCATION:教1-306
+DTSTART:20261016T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:5f2edd96-4c1e-41a5-81d6-b1845a0618c0@5f2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: SIMD计算机
+DTEND:20261126T081500Z
+LOCATION:教3-307
+DTSTART:20261126T064000Z
+SUMMARY:计算机系统结构
+UID:52460330-66cc-41aa-be91-947620012e40@5246.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
+DTEND:20260930T125500Z
+LOCATION:教1-316
+DTSTART:20260930T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:da87f6fd-a094-4020-a908-fc11d618a04a@da87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 边界表示、CSG、体素和多边形网格各自适合什么，并回到整学期主线：表示 &rarr\; 变换 &rarr\; 光栅化 &rarr\; 真实感绘制。
+DTEND:20261225T020500Z
+LOCATION:教2-503
+DTSTART:20261225T003000Z
+SUMMARY:计算机图形学
+UID:4f3fdc39-8a40-4280-89d3-be4c90ffd392@4f3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 张伯泉\nRemarks: 第2章 大数据处理架构 Hadoop
@@ -1804,7 +654,239 @@ DTEND:20260908T040000Z
 LOCATION:教4-310
 DTSTART:20260908T022500Z
 SUMMARY:大数据技术基础
-UID:6f91c984-a6a4-4da7-8e71-d350dda17f77@6f91.org
+UID:405726a2-27d3-460d-89eb-be9651dd3976@4057.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十二章 建设社会主义生态文明 第一节 坚持人与自然和谐共生 一、生态兴则文明兴 二、绿水青山就是金山银山 三、把生态文明建设摆在全局工作的突出位置 第二节 建设美丽中国 一、加快形成绿色生产方式和生活方式 二、坚持山水林田湖草沙一体化保护和系统治理 三、用最严格制度最严密法治保护生态环境 第三节 共谋全球生态文明建设之路 一、保护人类共同家园 二、共建清洁美丽世界 三、积极推动全球可持续发展 学习并理解如下问题：（1）新时代为什么突出强调生态文明建设（2）建设什么样的生态文明（3）怎样建设美丽中国（4）怎样共谋全球生态文明建设之路 
+DTEND:20261204T040000Z
+LOCATION:教1-306
+DTSTART:20261204T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:5505c699-447a-4426-add9-90d1d38d6fe1@5505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的古典英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
+DTEND:20260924T125500Z
+LOCATION:教1-435
+DTSTART:20260924T103000Z
+SUMMARY:英文电影赏析
+UID:3fb559c2-96d5-4bae-a275-c302c8e507ab@3fb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 动态互连网络
+DTEND:20261119T081500Z
+LOCATION:教3-307
+DTSTART:20261119T064000Z
+SUMMARY:计算机系统结构
+UID:ef57c4b2-2563-4f90-8b11-29ee20b79f57@ef57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第1章 软件工程学概述 1.1 软件危机  1.2 软件工程 1.3 软件生命周期1.4 软件过程 1.5 问题定义阶段
+DTEND:20260903T040000Z
+LOCATION:教4-307
+DTSTART:20260903T022500Z
+SUMMARY:软件工程
+UID:277619e6-2287-48b3-bfd9-d7456fb43b5c@2776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.6 空值处理 3.7 视图  习题讲解（关系运算、连接查询等）
+DTEND:20260928T081500Z
+LOCATION:教4-305
+DTSTART:20260928T064000Z
+SUMMARY:数据库系统
+UID:6dbf5048-1cff-4e4d-b242-5afc979a4e38@6dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验三  数据库的安全性和完整性
+DTEND:20261031T091500Z
+LOCATION:工1-415
+DTSTART:20261031T055000Z
+SUMMARY:数据库系统实验
+UID:dd546826-70df-4a90-8125-e34e2a5b4874@dd54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验一  数据库对象管理
+DTEND:20261017T091500Z
+LOCATION:工1-415
+DTSTART:20261017T055000Z
+SUMMARY:数据库系统实验
+UID:34ec62e3-fea5-414f-9bc7-a69f2419b393@34ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 答疑
+DTEND:20261210T081500Z
+LOCATION:教3-307
+DTSTART:20261210T064000Z
+SUMMARY:计算机系统结构
+UID:b6b85308-0d92-48fc-86e1-61da0a62d847@b6b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第七章 &ldquo\;三个代表&rdquo\;重要思想第一节	&quot\;三个代表&rdquo\;重要思想的核心观点 一、始终代表中国先进生产力的发展要求 二、始终代表中国先进文化的前进方向 三、始终代表中国最广大人民的根本利益第二节&quot\;三个代表&rdquo\;重要思想的主要内容 一、发展是党执政兴国的第一要务 二、建立社会主义市场经济体制 三、全面建设小康社会 四、建设社会主义政治文明 五、实施&quot\;引进来&rdquo\;和&ldquo\;走出去&rdquo\;相结合的对外开放战略 六、推进党的建设新的伟大工程 第三节&ldquo\;三个代表&quot\;重要思想的历史地位 一、中国特色社会主义理论体系的丰富发展 二、加强和改进党的建设、推进中国特色社会主义事业的强大理论武器
+DTEND:20261130T100500Z
+LOCATION:教3-109
+DTSTART:20261130T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:af828499-3218-4e38-b5b9-5cab8c8aa1a8@af82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 机器学习与神经网络基础
+DTEND:20260911T081500Z
+LOCATION:教1-403
+DTSTART:20260911T064000Z
+SUMMARY:智能芯片原理与应用
+UID:b8bad926-f1b3-4b92-b0f8-771bdf26cb34@b8ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 香橙派综合开发系统
+DTEND:20261110T020500Z
+LOCATION:教2-512
+DTSTART:20261110T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:763928cd-2bcf-4b6b-9075-19fb74ae8761@7639.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第5章 NoSQL数据库
+DTEND:20260929T040000Z
+LOCATION:教4-310
+DTSTART:20260929T022500Z
+SUMMARY:大数据技术基础
+UID:da3ec192-bffa-4557-892c-9f3c80dc8a2c@da3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第三章	 社会主义改造理论  第一节  从新民主主义到社会主义的转变  一、新民主主义社会是一个过渡性的社会 二、党在过渡时期的总路线及其依据
+DTEND:20261005T100500Z
+LOCATION:教3-109
+DTSTART:20261005T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:2762822b-8e94-4559-8423-82d0c998a29b@2762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第六章邓小平理论 第一节 邓小平理论首要的基本的理论问题和精髓 第一节	邓小平理论首要的基本的理论问题和精髓 一、邓小平理论首要的基本的理论问题 二、邓小平理论的精髓第二节 邓小平理论的主要内容一、社会主义初级阶段理论和党的基本路线 二、社会主义根本任务和发展战略理论
+DTEND:20261116T100500Z
+LOCATION:教3-109
+DTSTART:20261116T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:772f891a-4dce-4b4e-8fb0-7dc0ecc97f3e@772f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20260901T100500Z
+LOCATION:教1-314
+DTSTART:20260901T083000Z
+SUMMARY:机器学习
+UID:5924bbad-e35b-4fc0-a18b-e836b48c424b@5924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 答疑
+DTEND:20261207T020500Z
+LOCATION:教2-224
+DTSTART:20261207T003000Z
+SUMMARY:信息安全概论
+UID:0f347561-03de-4c75-9e2a-1ec6ccf4b528@0f34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第3章 需求分析 3.1需求分析的任务  3.2 与用户沟通获取需求的方法  3.3 分析建模与规格说明 3.4 实体－联系图3.5 数据规范化 3.6 状态转换图 3.7其他图形工具 3.8 验证软件需求
+DTEND:20260910T040000Z
+LOCATION:教4-307
+DTSTART:20260910T022500Z
+SUMMARY:软件工程
+UID:9684735a-1426-484f-8bfc-eed318779505@9684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 固定管线的基本框架：窗口与上下文、显示回调、缓冲与刷新、图元与颜色。课上带学生跑通第一个程序（清屏、画多边形、简单动画），后续实验都在这个框架上加。
+DTEND:20260922T081500Z
+LOCATION:教1-316
+DTSTART:20260922T064000Z
+SUMMARY:计算机图形学
+UID:fc4d8c61-4213-430e-84f3-28fe985b47a5@fc4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的经典英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
+DTEND:20260917T125500Z
+LOCATION:教1-435
+DTSTART:20260917T103000Z
+SUMMARY:英文电影赏析
+UID:d829d32a-5706-4cf4-a696-3aa66047c0e7@d829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章关系数据理论6.1问题的提出6.2规范化6.2.1函数依赖6.2.2码6.2.3范式
+DTEND:20261012T081500Z
+LOCATION:教4-305
+DTSTART:20261012T064000Z
+SUMMARY:数据库系统
+UID:f4166e39-8fa7-4a3e-8825-fee27d752def@f416.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章 补充内容、习题讲解
+DTEND:20261026T081500Z
+LOCATION:教4-305
+DTSTART:20261026T064000Z
+SUMMARY:数据库系统
+UID:cd137830-bfdc-4f22-8128-ee22e54d84af@cd13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
+DTEND:20261014T125500Z
+LOCATION:教1-316
+DTSTART:20261014T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:055abd47-884f-4e34-97bd-23373711474c@055a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第七章 数据库设计7.3 概念结构设计7.4逻辑结构设计
+DTEND:20261109T081500Z
+LOCATION:教4-305
+DTSTART:20261109T064000Z
+SUMMARY:数据库系统
+UID:494aad08-6920-4a73-a379-3db5832596d4@494a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十三章 维护和塑造国家安全 第一节 坚持总体国家安全观 一、国家安全是民族复兴的根基 二、总体国家安全观是新时代国家安全工作的基本遵循 三、新时代国家安全得到全面加强 第二节 构建统筹各领域安全的新安全格局 一、统筹发展和安全 二、把维护政治安全放在首要位置 三、维护重点领域国家安全 第三节 开创新时代国家安全工作新局面 一、推进国家安全体系和能力现代化 二、建设更高水平的平安中国 三、提高防范化解重大风险能力 学习并理解如下问题：（1）为什么要坚持总体国家安全观（2）如何构建统筹各领域安全的新安全格局（3）怎样推进国家安全体系和能力现代化
+DTEND:20261211T040000Z
+LOCATION:教1-306
+DTSTART:20261211T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:a4482d1a-ac75-49c7-85ae-89d581b69c54@a448.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 总复习
+DTEND:20261231T040000Z
+LOCATION:教4-307
+DTSTART:20261231T022500Z
+SUMMARY:软件工程
+UID:4dd61c66-adfc-4b5e-b35b-511afb387466@4dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 专用硬件架构 基于GPU/FPGA/ASIC等架构的智能计算专用平台
+DTEND:20261016T081500Z
+LOCATION:教1-403
+DTSTART:20261016T064000Z
+SUMMARY:智能芯片原理与应用
+UID:1db2046f-eff1-446c-a90e-ce38c05032a6@1db2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 蓝牙Beacon系统的构建
+DTEND:20261103T020500Z
+LOCATION:教2-512
+DTSTART:20261103T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:74309454-9671-42ba-9260-15956f014861@7430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第11章 面向对象设计 11.1面向对象设计的准则 11.2 启发规则 11.3 软件重用 11.4 系统分解 11.5 设计问题域子系统 11.6 设计人机交互子系统 11.7 设计任务管理子系统
+DTEND:20261203T040000Z
+LOCATION:教4-307
+DTSTART:20261203T022500Z
+SUMMARY:软件工程
+UID:4a185b8c-a461-461a-a9fd-722126249273@4a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 先讲为什么远处物体不能挡住近处，再分物体空间与图像空间两类方法。重点讲 Z-buffer，比较画家算法、BSP 的适用场景，并联系 OpenGL 深度测试。
+DTEND:20261124T081500Z
+LOCATION:教1-316
+DTSTART:20261124T064000Z
+SUMMARY:计算机图形学
+UID:eff56ed9-ae1a-4f5e-a339-d6b18f96a4c8@eff5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 明俊峰\nRemarks: 第二章 2.1 关系模型概述2.2关系数据结构及形式化定义2.3关系的完整性
@@ -1812,15 +894,15 @@ DTEND:20260907T081500Z
 LOCATION:教4-305
 DTSTART:20260907T064000Z
 SUMMARY:数据库系统
-UID:6e3fd541-83bd-487b-aa02-83a1a29ad59c@6e3f.org
+UID:9c9c13ed-2e37-46bc-abf4-5dfb59f12bf3@9c9c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teacher: 杨博\nRemarks: 
-DTEND:20260901T081500Z
-LOCATION:宿舍(大学城)
-DTSTART:20260901T073000Z
-SUMMARY:劳动教育
-UID:19455f9f-80ce-45f4-8d5d-0c7456d65348@1945.org
+DESCRIPTION:Teacher: 张伟文\nRemarks: 系统结构的评价标准\,计算机系统结构的发展
+DTEND:20260917T081500Z
+LOCATION:教3-307
+DTSTART:20260917T064000Z
+SUMMARY:计算机系统结构
+UID:5bd80dcf-2b78-4a50-bfad-216e1fc314db@5bd8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习处理器结构设计、访存部件、运算部件、控制部件
@@ -1828,7 +910,854 @@ DTEND:20261113T081500Z
 LOCATION:教1-403
 DTSTART:20261113T064000Z
 SUMMARY:智能芯片原理与应用
-UID:75943ebc-6a83-4157-a508-e0c04abc2511@7594.org
+UID:f68b77bd-fde8-40b6-9191-b68631881219@f68b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第二章 2.5关系演算2.5.1元组关系演算语言ALPHA
+DTEND:20260914T081500Z
+LOCATION:教4-305
+DTSTART:20260914T064000Z
+SUMMARY:数据库系统
+UID:7cce346f-8d8e-4dcc-997b-cfd64ba7790d@7cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十章 关系查询处理和查询优化（1）
+DTEND:20261123T081500Z
+LOCATION:教4-305
+DTSTART:20261123T064000Z
+SUMMARY:数据库系统
+UID:74616ed8-8c3d-4316-ae52-bfe004c3b32e@7461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 纹理映射在做什么（用图像代替几何细节），阴影的基本生成思路，以及走样来源与反走样手段。
+DTEND:20261208T081500Z
+LOCATION:教1-316
+DTSTART:20261208T064000Z
+SUMMARY:计算机图形学
+UID:2d008f76-6979-4120-8e9c-05941384befb@2d00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 计算机系统结构的基本概念\,计算机系统设计技术
+DTEND:20260910T081500Z
+LOCATION:教3-307
+DTSTART:20260910T064000Z
+SUMMARY:计算机系统结构
+UID:5c5f4244-5af0-4b29-99a3-a4862c2c9cdf@5c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第一章 绪论（2）
+DTEND:20260902T040000Z
+LOCATION:教5-102
+DTSTART:20260902T022500Z
+SUMMARY:数据库系统
+UID:c790ddd1-1c55-4914-8469-37af57d41f25@c790.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: IPSec协议
+DTEND:20261116T020500Z
+LOCATION:教2-224
+DTSTART:20261116T003000Z
+SUMMARY:信息安全概论
+UID:5594e43a-6fe8-4bd5-b3eb-8e63ff09c966@5594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 存储系统\,存储系统原理
+DTEND:20260924T081500Z
+LOCATION:教3-307
+DTSTART:20260924T064000Z
+SUMMARY:计算机系统结构
+UID:4dabfb42-6bc4-4b9a-af58-118848e56071@4dab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 密码协商算法， 公钥密码体制RSA
+DTEND:20261005T020500Z
+LOCATION:教2-224
+DTSTART:20261005T003000Z
+SUMMARY:信息安全概论
+UID:959bfc8b-1d31-453f-9beb-59c458195736@959b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第三章  社会主义改造理论第二节 社会主义改造道路和历史经验  一、适合中国特点的社会主义改造道路 二、社会主义改造的历史经验 第三节 社会主义制度在中国的确立一、社会主义基本制度的确立及其理论根据 二、确立社会主义基本制度的重大意义
+DTEND:20261012T100500Z
+LOCATION:教3-109
+DTSTART:20261012T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:d253fa85-9455-4d29-b558-3764a1f8d031@d253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 访问控制，安全模型
+DTEND:20260914T020500Z
+LOCATION:教2-224
+DTSTART:20260914T003000Z
+SUMMARY:信息安全概论
+UID:3ee37f7f-e513-4951-a3e7-f73a7172faeb@3ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第13章 软件评价与管理 13.1 软件质量 13.2 软件质量度量模型 13.3软件工程管理 13.4 软件产权
+DTEND:20261224T040000Z
+LOCATION:教4-307
+DTSTART:20261224T022500Z
+SUMMARY:软件工程
+UID:1d92defd-25d9-4beb-99e0-363c53500fd9@1d92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 2.课程设计报告写作
+DTEND:20270112T091500Z
+LOCATION:工1-415
+DTSTART:20270112T055000Z
+SUMMARY:数据库系统课程设计
+UID:157800f5-cf56-4f50-9e2d-2090f567999f@1578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 周健凯\nRemarks: 
+DTEND:20260909T100500Z
+LOCATION:教3-102
+DTSTART:20260909T083000Z
+SUMMARY:形势与政策
+UID:ab160436-ae2f-4a64-9f46-f3dc5a35b4ac@ab16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: SSL协议
+DTEND:20261109T020500Z
+LOCATION:教2-224
+DTSTART:20261109T003000Z
+SUMMARY:信息安全概论
+UID:63025909-22e6-424d-a1de-5258743a3b97@6302.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第11章 流计算
+DTEND:20261110T040000Z
+LOCATION:教4-310
+DTSTART:20261110T022500Z
+SUMMARY:大数据技术基础
+UID:ea9bdd3b-82e1-4513-bbad-59d5cd44a67e@ea9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第二章新 第三节  新民主主义革命的道路和基本经验一、新民主主义革命的道路 二、新民主主义革命的三大法宝 三、新民主主义革命理论的意义
+DTEND:20260928T100500Z
+LOCATION:教3-109
+DTSTART:20260928T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:dd98de33-20e4-43bd-849e-4edd099b2349@dd98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 导论 马克思主义中国化时代化的历史进程与理论成果 一、马克思主义中国化时代化的提出 二、马克思主义中国化时代化的内涵 三、马克思主义中国化时代化的历史进程 四、马克思主义中国化时代化理论成果及其关系
+DTEND:20260902T081500Z
+LOCATION:教3-109
+DTSTART:20260902T064000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:1d9e9451-8a3b-44be-89b8-566a7ee4ec0f@1d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第7章 MapReduce
+DTEND:20261013T040000Z
+LOCATION:教4-310
+DTSTART:20261013T022500Z
+SUMMARY:大数据技术基础
+UID:df751d3d-637a-4375-ba28-d02b3a4d66bd@df75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: IMU传感器的姿态检测
+DTEND:20261027T020500Z
+LOCATION:教2-512
+DTSTART:20261027T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:46c7d44b-3577-4f95-bd42-1ef1cacc9d05@46c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261110T100500Z
+LOCATION:教1-314
+DTSTART:20261110T083000Z
+SUMMARY:机器学习
+UID:66185db7-a126-4318-9d55-2bcfd694e28a@6618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第四章 数据库的安全性（1）
+DTEND:20260930T040000Z
+LOCATION:教5-102
+DTSTART:20260930T022500Z
+SUMMARY:数据库系统
+UID:056ef8af-6bee-40f3-9902-7f203b06e931@056e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验五  数据库的设计与实施
+DTEND:20261114T091500Z
+LOCATION:工1-415
+DTSTART:20261114T055000Z
+SUMMARY:数据库系统实验
+UID:ae85ca22-bc92-4375-900a-755392a3653d@ae85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 考试
+DTEND:20261228T100500Z
+LOCATION:教3-109
+DTSTART:20261228T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:de98099d-7cdf-477e-b40a-57c120d055ef@de98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 防火墙，入侵检测系统
+DTEND:20261130T020500Z
+LOCATION:教2-224
+DTSTART:20261130T003000Z
+SUMMARY:信息安全概论
+UID:cd97433d-8066-4b2c-9a0d-3f3c426177d4@cd97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261013T100500Z
+LOCATION:教1-314
+DTSTART:20261013T083000Z
+SUMMARY:机器学习
+UID:7292ff45-5578-45fe-b18a-e86cde933db3@7292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20260929T100500Z
+LOCATION:教1-314
+DTSTART:20260929T083000Z
+SUMMARY:机器学习
+UID:8c7720a3-9b2e-40a6-b10e-c1a4fa9cee5f@8c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 3.检查、答辩
+DTEND:20270113T091500Z
+LOCATION:工1-415
+DTSTART:20270113T055000Z
+SUMMARY:数据库系统课程设计
+UID:a2fe4940-2d96-48a1-837e-dbc3b6642954@a2fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第7章 7.4 集成测试 7.5 确认测试 7.6 白盒测试技术
+DTEND:20261015T040000Z
+LOCATION:教4-307
+DTSTART:20261015T022500Z
+SUMMARY:软件工程
+UID:af9530e2-327b-4ae5-b3ae-0e1ea7856c05@af95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 树莓派ARM计算平台；Google TPU 脉动阵列器
+DTEND:20261211T081500Z
+LOCATION:教1-403
+DTSTART:20261211T064000Z
+SUMMARY:智能芯片原理与应用
+UID:f148eff2-ec9b-4d16-9a54-ea8d8fdf4393@f148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十一章 以保障和改善民生为重点加强社会建设 第一节 让人民生活幸福是&ldquo\;国之大者&rdquo\; 一、民生是人民幸福之基 二、人民获得感幸福感安全感更加充实、更有保障、更可持续 三、坚持在发展中增进民生福祉 第二节 不断提高人民生活品质 一、完善分配制度 二、实施就业优先战略 三、健全社会保障体系 四、推进健康中国建设 第三节 在共建共治共享中推进社会治理现代化 一、加强和创新社会治理 二、完善社会治理体系 三、加强城乡社区治理 学习并理解如下问题：（1）为什么说&ldquo\;悠悠万事，民生为大&rdquo\;（2）提高人民生活品质着重从哪些方面入手（3）怎样推进社会治理现代化
+DTEND:20261127T040000Z
+LOCATION:教1-306
+DTSTART:20261127T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:b442ec23-a6a4-488a-9aa1-a6d635559c45@b442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习处理器架构及案例介绍，华为昇腾AI芯片全栈平台
+DTEND:20261127T081500Z
+LOCATION:教1-403
+DTSTART:20261127T064000Z
+SUMMARY:智能芯片原理与应用
+UID:9b138641-5934-4926-84cc-02961016648c@9b13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 实验三 vi编辑器 实验四 shell编程
+DTEND:20261015T125500Z
+LOCATION:工1-415
+DTSTART:20261015T092000Z
+SUMMARY:Linux技术
+UID:11e75478-3bca-4e5a-82dd-ee056e43343f@11e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261215T100500Z
+LOCATION:教1-314
+DTSTART:20261215T083000Z
+SUMMARY:机器学习
+UID:6d09b4e0-cbac-4d1e-a21a-4ea2301ee290@6d09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第一章 毛泽东思想及其历史地位   第一节  毛泽东思想的形成与发展  第二节 毛泽东思想的主要内容和活的灵魂   第三节 毛泽东思想的历史地位  主要介绍毛泽东思想形成发展的历史条件 、毛泽东思想形成发展的过程，以及毛泽东思想的主要内容毛泽东思想活的灵魂 和历史地位。
+DTEND:20260907T100500Z
+LOCATION:教3-109
+DTSTART:20260907T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:20490751-d41b-432e-a8f7-254c6330ef53@2049.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第9章 数据仓库 Hive
+DTEND:20261027T040000Z
+LOCATION:教4-310
+DTSTART:20261027T022500Z
+SUMMARY:大数据技术基础
+UID:e9c002df-fbc3-4261-ae38-29525da17aec@e9c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第二章 2.4关系代数2.4.1传统的集合运算2.4.2专门的关系运算
+DTEND:20260909T040000Z
+LOCATION:教5-102
+DTSTART:20260909T022500Z
+SUMMARY:数据库系统
+UID:3ee1d625-8860-4eca-a234-98d893ed7fdc@3ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 7. Linux内核简介-下
+DTEND:20261014T020500Z
+LOCATION:教2-515
+DTSTART:20261014T003000Z
+SUMMARY:Linux技术
+UID:523c34b3-6a04-4f42-b221-83cd91c6caef@523c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261201T100500Z
+LOCATION:教1-314
+DTSTART:20261201T083000Z
+SUMMARY:机器学习
+UID:61c72f7a-2f15-4398-b36f-f2f6a203cf22@61c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 概论 信息安全目标
+DTEND:20260831T020500Z
+LOCATION:教2-224
+DTSTART:20260831T003000Z
+SUMMARY:信息安全概论
+UID:fe6c5b0c-3cd0-405c-98a9-25c6a541cdb1@fe6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 讲种子填充（四连通/八连通）及其与扫描线算法的适用场景，顺带点一下字符与走样现象。光栅三章收口：生成、填充、离散化误差
+DTEND:20261020T081500Z
+LOCATION:教1-316
+DTSTART:20261020T064000Z
+SUMMARY:计算机图形学
+UID:78c1fdac-41b4-47dc-821a-a68ba759a639@78c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十七章 全面从严治党 第一节 全面从严治党是新时代党的建设的鲜明主题  一、打铁必须自身硬 二、坚定不移全面从严治党 三、全面从严治党取得历史性开创性成就  第二节 以政治建设为统领深入推进党的建设 一、把党的政治建设摆在首位 二、思想建设是党的基础性建设 三、贯彻新时代党的组织路线 四、以严的基调强化正风肃纪 五、把制度建设贯穿到党的各项建设之中 第三节 坚定不移推进反腐败斗争 一、腐败是党长期执政面临的最大威胁 二、坚持标本兼治开展反腐败斗争 三、反腐败必须永远吹冲锋号 第四节 建设长期执政的马克思主义政党 一、党的自我革命是跳出历史周期律的第二个答案 二、时刻保持解决大党独有难题的清醒和坚定 三、以伟大自我革命引领伟大社会革命 学习并理解如下问题：（1）为什么要全面从严治党（2）十八大以来管党治党宽松软状况得到根本扭转（3）如何理解全面从严治党这场伟大自我革命
+DTEND:20270101T040000Z
+LOCATION:教1-306
+DTSTART:20270101T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:9c721796-1fc0-4e8a-a5af-0d627bdd6a79@9c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 系统设计实例	了解平衡车的开发设计案例，了解无人机的开发设计案例。
+DTEND:20261013T020500Z
+LOCATION:教2-512
+DTSTART:20261013T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:33b7dc78-b35d-4eee-9118-41fcdaf1d165@33b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 互连网络\,互连函数
+DTEND:20261112T081500Z
+LOCATION:教3-307
+DTSTART:20261112T064000Z
+SUMMARY:计算机系统结构
+UID:b757e91c-30ed-4389-8f5c-84c51686790c@b757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十章 建设社会主义文化强国 第一节 文化是民族生存和发展的重要力量 一、文化繁荣兴盛是实现中华民族伟大复兴的必然要求 二、坚定中国特色社会主义文化自信 三、坚持中国特色社会主义文化发展道路 第二节 建设具有强大凝聚力和引领力的社会主义意识形态 一、坚持马克思主义在意识形态领域指导地位的根本制度 二、大力加强马克思主义理论建设 三、积极塑造主流舆论新格局 第三节 以社会主义核心价值观引领文化建设 一、广泛践行社会主义核心价值观 二、弘扬以伟大建党精神为源头的中国共产党人精神谱系 三、提高全社会文明程度 第四节 铸就社会主义文化新辉煌 一、传承发展中华优秀传统文化 二、繁荣发展文化事业和文化产业 三、不断提升国家文化软实力和中华文化影响力 学习并理解如下问题：（1）为什么建设中国特色社会主义文化（2）为什么要坚持马克思主义在意识形态领域指导地位的根本制度（3）为什么要用社会主义核心价值观凝心聚力（4）如何铸就社会主义文化新辉煌  
+DTEND:20261120T040000Z
+LOCATION:教1-306
+DTSTART:20261120T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:00984c04-910e-400f-b727-7bbef645be61@0098.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261124T100500Z
+LOCATION:教1-314
+DTSTART:20261124T083000Z
+SUMMARY:机器学习
+UID:18a79d57-b71a-44cb-93c1-0a5fb0798905@18a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 多处理机
+DTEND:20261203T081500Z
+LOCATION:教3-307
+DTSTART:20261203T064000Z
+SUMMARY:计算机系统结构
+UID:fbeb2b77-6cb3-4af2-b136-d7c5c1b72ed3@fbeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 杨博\nRemarks: 
+DTEND:20260901T081500Z
+LOCATION:宿舍(大学城)
+DTSTART:20260901T073000Z
+SUMMARY:劳动教育
+UID:42057e1a-23ed-4548-aa34-1b375cef037b@4205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第5章 总体设计 5.1 设计过程 5.2 设计原理 5.3 启发式规
+DTEND:20260914T040000Z
+LOCATION:教1-318
+DTSTART:20260914T022500Z
+SUMMARY:软件工程
+UID:64b9ba72-b85c-4ec1-8d8f-eb34de2e839a@64b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
+DTEND:20260910T125500Z
+LOCATION:教1-435
+DTSTART:20260910T103000Z
+SUMMARY:英文电影赏析
+UID:3cf85574-4a05-4cbe-832f-60cce2ed1755@3cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第四章 数据库的安全性（2）、第五章数据库的完整性（1）
+DTEND:20261005T081500Z
+LOCATION:教4-305
+DTSTART:20261005T064000Z
+SUMMARY:数据库系统
+UID:31d45409-4638-4f3e-a209-2e18412ed881@31d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的科技英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
+DTEND:20261015T125500Z
+LOCATION:教1-435
+DTSTART:20261015T103000Z
+SUMMARY:英文电影赏析
+UID:5c1f33c3-02ae-4978-ae4b-f4e1abf3bb73@5c1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 何元烈\nRemarks: 嵌入式开发技术	掌握各种嵌入式系统的开发方法、开发工具和开发技巧。
+DTEND:20260929T020500Z
+LOCATION:教2-512
+DTSTART:20260929T003000Z
+SUMMARY:智能嵌入式系统设计
+UID:509591af-73aa-4673-b53d-d0b5ad08948e@5095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.4数据查询
+DTEND:20260921T081500Z
+LOCATION:教4-305
+DTSTART:20260921T064000Z
+SUMMARY:数据库系统
+UID:1fc2a07c-39d7-42f0-9aac-119391d33c72@1fc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 平行投影与透视投影、相机模型，以及完整三维显示链：建模变换 &rarr\; 观察变换 &rarr\; 投影 &rarr\; 裁剪 &rarr\; 视口。
+DTEND:20261117T081500Z
+LOCATION:教1-316
+DTSTART:20261117T064000Z
+SUMMARY:计算机图形学
+UID:a742b018-19a7-47de-9dee-4a1cd1bfb94a@a742.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第七章 数据库设计7.1数据库设计概述 7.2需求分析
+DTEND:20261102T081500Z
+LOCATION:教4-305
+DTSTART:20261102T064000Z
+SUMMARY:数据库系统
+UID:5bb09733-bf76-473c-8eaf-d23472137969@5bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 黄权东\nRemarks: 课程简介，概述及课堂交流互动；分析英文电影的特点；课堂思政，通过中国电影的前沿科技，激发学生对课外文学作品的热情，从而鼓舞学生为社会主义建设贡献。
+DTEND:20260903T125500Z
+LOCATION:教1-435
+DTSTART:20260903T103000Z
+SUMMARY:英文电影赏析
+UID:67f74993-972d-4421-bc71-4dc93b64a5c7@67f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 对称算法DES算法
+DTEND:20260928T020500Z
+LOCATION:教2-224
+DTSTART:20260928T003000Z
+SUMMARY:信息安全概论
+UID:f65f5f47-0c20-41f2-a3c3-c787ac2c7244@f65f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第八章 科学发展观 第一节	科学发展观的科学内涵 一、推动经济社会发展是料学发展观的第一要义 二、以人为本是科学发展观的核心立场 三、全面协调可持续是料学发展现的基本要求 四、统筹兼顾是科学发展观的根本方法
+DTEND:20261207T100500Z
+LOCATION:教3-109
+DTSTART:20261207T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:ebd41832-b46f-4cc3-8aaa-2f13396c78a0@ebd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261208T100500Z
+LOCATION:教1-314
+DTSTART:20261208T083000Z
+SUMMARY:机器学习
+UID:4a57ff74-8a67-46a8-b413-b676cb96c349@4a57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
+DTEND:20260923T125500Z
+LOCATION:教1-316
+DTSTART:20260923T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:3a5edde1-b2a6-440e-a3b9-76ed7266a529@3a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 身份认证，X509
+DTEND:20261102T020500Z
+LOCATION:教2-224
+DTSTART:20261102T003000Z
+SUMMARY:信息安全概论
+UID:5648cdc6-fbb4-4e8f-995e-9e83486fe49e@5648.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 8. 常用开发工具-上
+DTEND:20261021T020500Z
+LOCATION:教2-515
+DTSTART:20261021T003000Z
+SUMMARY:Linux技术
+UID:56d78c73-f9f1-4984-bc0e-a1ec167cbede@56d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第1章 大数据概述
+DTEND:20260901T040000Z
+LOCATION:教4-310
+DTSTART:20260901T022500Z
+SUMMARY:大数据技术基础
+UID:3eca1fc8-7f15-408a-bd59-f9b95fd335ba@3eca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第10章 面向对象分析 10.1 面向对象分析的基本过程 10.2 需求陈述 10.3 建立对象模型
+DTEND:20261119T040000Z
+LOCATION:教4-307
+DTSTART:20261119T022500Z
+SUMMARY:软件工程
+UID:f58e42bb-94fa-424a-805e-5295ae7e2e83@f58e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 1. Linux技术绪论
+DTEND:20260902T020500Z
+LOCATION:教2-515
+DTSTART:20260902T003000Z
+SUMMARY:Linux技术
+UID:dd9a2b89-b52b-42f0-a4a8-ede43a5f3c53@dd9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 三级存储系统
+DTEND:20261001T081500Z
+LOCATION:教3-307
+DTSTART:20261001T064000Z
+SUMMARY:计算机系统结构
+UID:2ac41b9d-8e5c-4421-953c-1db551a869b4@2ac4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 密码学基础，古典密码
+DTEND:20260921T020500Z
+LOCATION:教2-224
+DTSTART:20260921T003000Z
+SUMMARY:信息安全概论
+UID:9099a68e-2eda-40b4-b5bd-47a3493e8616@9099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 把二维矩阵扩到三维，讲绕坐标轴和绕任意轴旋转，并分清物体、世界、观察（相机）坐标系。
+DTEND:20261110T081500Z
+LOCATION:教1-316
+DTSTART:20261110T064000Z
+SUMMARY:计算机图形学
+UID:9e2be102-c7a7-4f45-8cf3-65acd2cf143b@9e2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验四  数据库辅助设计
+DTEND:20261107T091500Z
+LOCATION:工1-415
+DTSTART:20261107T055000Z
+SUMMARY:数据库系统实验
+UID:5615ca00-7579-4b40-a2e1-0e9709149444@5615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第九章 全面依法治国 第一节 坚持中国特色社会主义法治道路 一、全面依法治国是国家治理的一场深刻革命 二、全面依法治国的唯一正确道路 三、统筹处理全面依法治国的重大关系 第二节 建设中国特色社会主义法治体系 一、全面推进依法治国的总抓手 二、坚持依宪治国、依宪执政 三、更好推进中国特色社会主义法治体系建设 第三节 加快建设法治中国 一、法治中国建设的总体目标 二、法治中国建设的工作布局 三、建设更高水平的法治中国 学习并理解如下问题：（1）为什么要全面推进依法治国（2）为什么要走中国特色社会主义法治道路（3）全面依法治国的总目标（4）如何加快建设法治中国
+DTEND:20261106T040000Z
+LOCATION:教1-306
+DTSTART:20261106T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:fb1ada71-a757-4328-b4c9-b6159c80a874@fb1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第2章 　可行性研究 2.1 可行性研究的任务 2.2可行性研究的步骤 2.3 系统流程图 2.4 数据流图 2.5 数据字典 2.6 成本效益分析
+DTEND:20260907T040000Z
+LOCATION:教1-318
+DTSTART:20260907T022500Z
+SUMMARY:软件工程
+UID:60580356-3023-4e9d-bf86-3f9b0c9d1766@6058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第七章 数据库设计7.5数据库的物理设计7.6 数据库的实施和维护
+DTEND:20261116T081500Z
+LOCATION:教4-305
+DTSTART:20261116T064000Z
+SUMMARY:数据库系统
+UID:9c90b655-9b04-41cf-83f5-bc9641404f1b@9c90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 11.8 设计数据管理子系统 11.9 设计类中的服务 11.10 设计关联 11.11设计优化
+DTEND:20261210T040000Z
+LOCATION:教4-307
+DTSTART:20261210T022500Z
+SUMMARY:软件工程
+UID:a929e00a-3a87-4bb8-8ffb-3033fbbb1a56@a929.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第六章 邓小平理论 第二节 邓小平理论的主要内容  这次课主要讲解 社会主义改革开放和社会主义市场经济理论。重点讲解改革开放理论，分别从改革开放的依据、改革开放的历程、改革的性质、三个有利于标准和开放也是以改革。社会主义市场经济理论主要讲解社会主义市场经济的形成和内涵
+DTEND:20261123T100500Z
+LOCATION:教3-109
+DTSTART:20261123T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:cda31937-4472-436b-8ae7-49383d18fb8f@cda3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 考试
+DTEND:20261218T081500Z
+LOCATION:教1-403
+DTSTART:20261218T064000Z
+SUMMARY:智能芯片原理与应用
+UID:35178c6d-a2eb-4a4c-ab74-d3f7592658d5@3517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第四章 社会主义建设道路初步探索的理论成果第一节	初步探索的重要理论成果 一、调动一切积极因素为社会主义事业服务 二、正确认识和处理社会主义社会矛盾的思想 三，走中国工业化道路的思想 四、初步探索的其他理论成果第二节	初步探索的意义和经验教训 一、初步探索的意义 二、初步探索的经验教
+DTEND:20261026T100500Z
+LOCATION:教3-109
+DTSTART:20261026T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:6db865c3-0582-4333-8c47-26ad436403fd@6db8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 超流水线处理机\,超标量超流水线处理机
+DTEND:20261105T081500Z
+LOCATION:教3-307
+DTSTART:20261105T064000Z
+SUMMARY:计算机系统结构
+UID:05bd7d4d-0e0b-424f-a107-2a7dca45c94a@05bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 前言：主要介绍课程的性质、课程的学习方法、培养数学与算法思维以及软硬件结合的思想
+DTEND:20260903T081500Z
+LOCATION:教3-307
+DTSTART:20260903T064000Z
+SUMMARY:计算机系统结构
+UID:6b5a0b1e-704f-48f9-a4d4-853b5caca25a@6b5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习基础及高级计算机视觉任务
+DTEND:20260918T081500Z
+LOCATION:教1-403
+DTSTART:20260918T064000Z
+SUMMARY:智能芯片原理与应用
+UID:d89f8f7d-7e6e-46fa-a4a4-82380022a619@d89f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十六章 中国特色大国外交和推动构建人类命运共同体 第一节 新时代中国外交在大变局中开创新局 一、当今世界正经历百年未有之大变局 二、中国必须有自己特色的大国外交 三、我国国际影响力、感召力、塑造力显著提升 第二节 全面推进中国特色大国外交 一、坚持走和平发展道路 二、推动构建新型国际关系三、坚决维护国家主权、安全、发展利益 四、坚持外交为民 第三节 推动构建人类命运共同体 一、构建人类命运共同体是世界各国人民前途所在 二、推动构建人类命运共同体的价值基础和重要依托 三、积极参与全球治理体系改革和建设 四、高质量共建&ldquo\;一带一路&rdquo\;  学习并理解如下问题：（1）为什么说当今世界百年未有之大变局加速演进（2）全面推进中国特色大国外交的原则和布局（3）推动构建人类命运共同体的丰富内涵和实践成果
+DTEND:20261225T040000Z
+LOCATION:教1-306
+DTSTART:20261225T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:f3851dbd-0b26-4255-b5e3-e8acc856a2a1@f385.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 黄权东\nRemarks: 电影赏析，分享一部欧美的现代英文电影，并介绍其中的特色；概述及课堂交流互动，课堂思政，培养爱国情怀
+DTEND:20261008T125500Z
+LOCATION:教1-435
+DTSTART:20261008T103000Z
+SUMMARY:英文电影赏析
+UID:17c72a20-173c-4092-bf30-0206eaa567e1@17c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 5. Linux Shell编程设计-下
+DTEND:20260930T020500Z
+LOCATION:教2-515
+DTSTART:20260930T003000Z
+SUMMARY:Linux技术
+UID:421f0613-8470-4605-90e8-301fd2f2dd03@421f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 架构特点与指令集；计算效率分析与优化途径；
+DTEND:20261023T081500Z
+LOCATION:教1-403
+DTSTART:20261023T064000Z
+SUMMARY:智能芯片原理与应用
+UID:2263c82f-2eca-46e0-9ffc-036d91436bcb@2263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第十二章 并发控制（2）， 复习、答疑
+DTEND:20261221T081500Z
+LOCATION:教4-305
+DTSTART:20261221T064000Z
+SUMMARY:数据库系统
+UID:dcd69af6-31c5-4d10-b505-f9913d00d542@dcd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20260915T100500Z
+LOCATION:教1-314
+DTSTART:20260915T083000Z
+SUMMARY:机器学习
+UID:e6afb4bf-7962-4c21-835b-6e005e1da3fd@e6af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 简介课程内容及考核方式，智慧树平台操作注意事项，分组及话题选择
+DTEND:20260902T125500Z
+LOCATION:教1-316
+DTSTART:20260902T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:52ce77f7-aa58-4a61-99bd-9e8a4eaf57e8@52ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习编程框架机理
+DTEND:20261009T081500Z
+LOCATION:教1-403
+DTSTART:20261009T064000Z
+SUMMARY:智能芯片原理与应用
+UID:ecb5cda3-9995-416d-9718-1d81af5ac8c1@ecb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261027T100500Z
+LOCATION:教1-314
+DTSTART:20261027T083000Z
+SUMMARY:机器学习
+UID:8bcbaf98-ecf0-49a5-9e12-d7cfd8695348@8bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 9. 常用开发工具-下
+DTEND:20261028T020500Z
+LOCATION:教2-515
+DTSTART:20261028T003000Z
+SUMMARY:Linux技术
+UID:5f0361e9-c981-419b-8304-b2be27f71e78@5f03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20261006T100500Z
+LOCATION:教1-314
+DTSTART:20261006T083000Z
+SUMMARY:机器学习
+UID:7aef405c-dc81-4c4a-affb-37767cfcc1d2@7aef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 1.数据库及系统的实现
+DTEND:20270111T091500Z
+LOCATION:工1-415
+DTSTART:20270111T055000Z
+SUMMARY:数据库系统课程设计
+UID:ee76a2d8-3824-4dfe-a98b-00bb00663cdc@ee76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 从 CAGD 和连续性（C0/C1/G1）讲起，重点讲 B&eacute\;zier 曲线、de Casteljau 求值和控制顶点的作用，B 样条作对比简介。
+DTEND:20261215T081500Z
+LOCATION:教1-316
+DTSTART:20261215T064000Z
+SUMMARY:计算机图形学
+UID:3461a891-5367-425d-ad96-3d743ddc0e7d@3461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 汪明慧\nRemarks: 
+DTEND:20260908T100500Z
+LOCATION:教1-314
+DTSTART:20260908T083000Z
+SUMMARY:机器学习
+UID:4b95fe77-6558-4566-bb42-3334cb00a5d1@4b95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第八章科学发展观 第二节	科学发展观的主要内容 一.加快转变经济发展方式 二.发展社会主义民主政治 三、推进社会主义文化强国建设 四、构建社会主义和谐社会 五.推进生态文明建设 六、全而提髙党的建设科学化水平 第三节	科学发展观的历史地位 一、中国特色社会主义理论体系在新世纪新阶段的接续发展 二、全面建设小康社会、加快推进社会主义现代化的根本指针
+DTEND:20261214T100500Z
+LOCATION:教3-109
+DTSTART:20261214T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:3a13b1ab-4303-4f6a-9dbe-76fec9e921e4@3a13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 实验二  数据的查询及更新
+DTEND:20261024T091500Z
+LOCATION:工1-415
+DTSTART:20261024T055000Z
+SUMMARY:数据库系统实验
+UID:f53a251d-5761-477d-a900-ca95dc0f1e69@f53a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郝彦军\nRemarks: 恶意代码，软件安全
+DTEND:20261123T020500Z
+LOCATION:教2-224
+DTSTART:20261123T003000Z
+SUMMARY:信息安全概论
+UID:5c294a04-6946-410f-9b59-b8853a5494d0@5c29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 线下话题讨论，学生代表上台展示优秀作品，教师进行总结
+DTEND:20261007T125500Z
+LOCATION:教1-316
+DTSTART:20261007T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:56677db2-37ff-4d16-b03f-1b76ce41dc12@5667.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第9章 面向对象方法学习引论 9.1 面向对象方法学概述 9.2 面向对象的概念 9.3 面向对象建模
+DTEND:20261105T040000Z
+LOCATION:教4-307
+DTSTART:20261105T022500Z
+SUMMARY:软件工程
+UID:014ea856-2c96-413c-bd29-4e914dbb55c6@014e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 介绍课程配套教材、参考书、上机环境、学习方式、考核方式与教学计划，明确本次授课的目的与要求； 第一章  1.1 绪论（1）
+DTEND:20260831T081500Z
+LOCATION:教4-305
+DTSTART:20260831T064000Z
+SUMMARY:数据库系统
+UID:bce4616c-d7d9-4f70-8f41-e21a71e221f3@bce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 自主进行视频学习及小组话题讨论安排
+DTEND:20260909T125500Z
+DTSTART:20260909T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:002f9552-3bfd-4ebc-b209-dae9c0b734e2@002f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第三章 3.1SQL概述3.2学生-课程数据库3.3数据定义3.4数据查询3.4.1单表查询
+DTEND:20260916T040000Z
+LOCATION:教5-102
+DTSTART:20260916T022500Z
+SUMMARY:数据库系统
+UID:70de2db7-2452-442e-bc0c-af3e1c29bd50@70de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 吕銮\nRemarks: 从&ldquo\;连续直线如何变成离散像素&rdquo\;引入光栅化，重点讲 DDA、中点画线和 Bresenham，比较误差控制与整数运算。可对照 OpenGL 画线，让学生知道 API 背后在算什么。
+DTEND:20261006T081500Z
+LOCATION:教1-316
+DTSTART:20261006T064000Z
+SUMMARY:计算机图形学
+UID:fdaba85c-dc9a-44ec-ba17-b777f641d3ab@fdab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伟文\nRemarks: 数据重定向\,全局相关\,超标量处理机与超流水线处理机
+DTEND:20261029T081500Z
+LOCATION:教3-307
+DTSTART:20261029T064000Z
+SUMMARY:计算机系统结构
+UID:ad5fa080-7df0-4120-aa2f-b12b51c48d65@ad5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 龚怡\nRemarks: 第8章 维护 8.1 软件维护的定义    8.2 软件维护的特点  8.3 软件维护过程 8.4 软件的可维护性 8.5 预防性维护
+DTEND:20261029T040000Z
+LOCATION:教4-307
+DTSTART:20261029T022500Z
+SUMMARY:软件工程
+UID:b2480b6b-6870-4ccf-b1ab-0e6ae340b87a@b248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 乔杰\nRemarks: 10. Linux编程环境-上
+DTEND:20261104T020500Z
+LOCATION:教2-515
+DTSTART:20261104T003000Z
+SUMMARY:Linux技术
+UID:ab573375-5ba5-4d23-b463-44f2062af162@ab57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 张伯泉\nRemarks: 第12章 Flink
+DTEND:20261117T040000Z
+LOCATION:教4-310
+DTSTART:20261117T022500Z
+SUMMARY:大数据技术基础
+UID:2dd6ae5b-1152-4e14-9e00-b4b4cac0d5bd@2dd6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Teacher: 吕銮\nRemarks: 讲平移、旋转、缩放、对称、错切，以及为什么要用齐次坐标把它们统一成矩阵。重点练复合变换的顺序（先右乘还是先左乘），并在 OpenGL 里用 glTranslate/glRotate/glScale 对照。
@@ -1836,6 +1765,77 @@ DTEND:20261027T081500Z
 LOCATION:教1-316
 DTSTART:20261027T064000Z
 SUMMARY:计算机图形学
-UID:1d0eadde-f949-49c3-b496-ac6b244b375c@1d0e.org
+UID:25fee723-59c1-465a-8780-d5c2c2a03e16@25fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第七章 社会主义现代化建设的教育、科技、人才战略 第一节 全面建设社会主义现代化国家的基础性、战略性支撑 一、坚持教育发展、科技创新、人才培养一体推进 二、深入实施科教兴国战略、人才强国战略、创新驱动 发展战略 三、坚持教育优先发展、科技自立自强、人才引领驱动 第二节 加快建设教育强国 一、教育是民族振兴、社会进步的基石 二、落实立德树人根本任务 三、办好人民满意的教育 学习并理解如下问题：（1）为什么要坚持教育、科技、人才一体推进（2）怎样加快建设教育强国   第三节 加快建设科技强国 一、科技强则国家强 二、打赢关键核心技术攻坚战 三、增强自主创新能力 第四节 加快建设人才强国 一、培养入才是国家和民族长远发展大计 二、培养造就大批德才兼备的高素质人才 三、把各方面优秀人才集聚到党和国家事业中来 学习并理解如下问题：（1）怎样加快建设科技强国（2）如何深入实施新时代人才强国战略  
+DTEND:20261023T040000Z
+LOCATION:教1-306
+DTSTART:20261023T022500Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:36ffc0f9-c831-48ac-a1b6-535c4b0d2d5f@36ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 高挪英\nRemarks: 第十四章 建设巩固国防和强大人民军队 第一节 强国必须强军，军强才能国安 一、国防和军队建设是捍卫国家主权、安全、发展利益的坚强后盾 二、新时代人民军队使命任务 第二节 实现党在新时代的强军目标 一、建设强大军队是接续奋斗的伟大事业 二、强军目标的科学内涵 三、全面推进国防和军队现代化的战略安排 第三节 加快推进国防和军队现代化 一、坚持党对人民军队的绝对领导 二、坚持政治建军、改革强军、科技强军、人才强军、依法治军 三、全面加强练兵备战 四、巩固提高一体化国家战略体系和能力 学习并理解如下问题：（1）为什么要建设巩固国防和强大人民军队（2）怎样建设巩固国防和强大人民军队（3）人民军队怎样捍卫国家主权、安全、发展利益
+DTEND:20261216T100500Z
+LOCATION:教1-306
+DTSTART:20261216T083000Z
+SUMMARY:习近平新时代中国特色社会主义思想概论
+UID:3d11ac5d-1cf1-4266-9212-2301edd56094@3d11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 谢良\nRemarks: 深度学习处理器原理
+DTEND:20261106T081500Z
+LOCATION:教1-403
+DTSTART:20261106T064000Z
+SUMMARY:智能芯片原理与应用
+UID:03dcca8b-f214-488d-94d6-d9fb605de96a@03dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 第二章 新民主主义革命理论 第一节 新民主主义革命理论形成的依据 一、近代中国国情和中国革命的时代特征 二、新民主主义革命理论的实践基础
+DTEND:20260914T100500Z
+LOCATION:教3-109
+DTSTART:20260914T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:fb74c577-8317-4edd-8d23-7bb51c1cd455@fb74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 杨博\nRemarks: 
+DTEND:20260929T081500Z
+LOCATION:宿舍(大学城)
+DTSTART:20260929T073000Z
+SUMMARY:劳动教育
+UID:34155011-05ae-49bc-9073-da340384ef10@3415.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 明俊峰\nRemarks: 第六章关系数据理论6.3数据依赖的公理系统6.4 模式的分解
+DTEND:20261019T081500Z
+LOCATION:教4-305
+DTSTART:20261019T064000Z
+SUMMARY:数据库系统
+UID:b37a1b13-f6b7-48d4-838e-9fb990ceea2c@b37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 周健凯\nRemarks: 专题四：繁荣互联网条件下新大众文艺
+DTEND:20260902T100500Z
+LOCATION:教3-102
+DTSTART:20260902T083000Z
+SUMMARY:形势与政策
+UID:c8b00345-b5d5-402f-a2b2-980427d05f6e@c8b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 郭少琼\nRemarks: 完成视频观看及线上考试
+DTEND:20261021T125500Z
+DTSTART:20261021T103000Z
+SUMMARY:欧洲文明与世界遗产
+UID:26d63784-447d-4648-bf1a-3ce3ad8e89a0@26d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teacher: 曹亚琴\nRemarks: 讨论课：谈谈你心目中的毛泽东
+DTEND:20261102T100500Z
+LOCATION:教3-109
+DTSTART:20261102T083000Z
+SUMMARY:毛泽东思想和中国特色社会主义理论体系概论
+UID:088ab8d1-01a5-4dc3-b130-d9b466d50804@088a.org
 END:VEVENT
 END:VCALENDAR
